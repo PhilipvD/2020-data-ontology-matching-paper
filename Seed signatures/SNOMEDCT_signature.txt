@@ -1,13 +1,11 @@
 [<http://snomed.info/id/39937001>
 <http://snomed.info/id/306955007>
-<http://purl.bioontology.org/ontology/STY/T071>
 <http://snomed.info/id/106237007>
 <http://snomed.info/id/208061000119101>
 <http://snomed.info/id/249565005>
 <http://snomed.info/id/128928004>
 <http://snomed.info/id/362965005>
 <http://snomed.info/id/303402001>
-<http://purl.bioontology.org/ontology/STY/T185>
 <http://snomed.info/id/362977000>
 <http://snomed.info/id/449790007>
 <http://snomed.info/id/8447006>
@@ -24,16 +22,13 @@
 <http://snomed.info/id/409708007>
 <http://snomed.info/id/406122000>
 <http://snomed.info/id/106077005>
-<http://purl.bioontology.org/ontology/STY/T072>
 <http://snomed.info/id/128126004>
-<http://purl.bioontology.org/ontology/STY/T077>
 <http://snomed.info/id/66091009>
 <http://snomed.info/id/47650006>
 <http://snomed.info/id/82832008>
 <http://snomed.info/id/87536007>
 <http://snomed.info/id/363465007>
 <http://snomed.info/id/281471001>
-<http://purl.bioontology.org/ontology/STY/T170>
 <http://snomed.info/id/263486008>
 <http://snomed.info/id/127856007>
 <http://snomed.info/id/400207007>
@@ -68,7 +63,6 @@
 <http://snomed.info/id/87628006>
 <http://snomed.info/id/782964007>
 <http://snomed.info/id/10200004>
-<http://purl.bioontology.org/ontology/STY/T025>
 <http://snomed.info/id/438949009>
 <http://snomed.info/id/246915008>
 <http://snomed.info/id/301712000>
@@ -78,7 +72,6 @@
 <http://snomed.info/id/400199006>
 <http://snomed.info/id/23853001>
 <http://snomed.info/id/63650001>
-<http://purl.bioontology.org/ontology/STY/T021>
 <http://snomed.info/id/106076001>
 <http://snomed.info/id/359804008>
 <http://snomed.info/id/8116006>
@@ -115,7 +108,6 @@
 <http://snomed.info/id/19130008>
 <http://snomed.info/id/251052000>
 <http://snomed.info/id/119522002>
-<http://purl.bioontology.org/ontology/STY/T017>
 <http://snomed.info/id/246205007>
 <http://snomed.info/id/396275006>
 <http://snomed.info/id/400177003>
