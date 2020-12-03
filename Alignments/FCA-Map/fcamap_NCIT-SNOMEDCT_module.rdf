@@ -1,0 +1,1777 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='FCA-Map'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<onto1>http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owlmodule</onto1>
+	<onto2>http://snomed.info/sct/900000000000207008module</onto2>
+	<uri1>http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owlmodule</uri1>
+	<uri2>http://snomed.info/sct/900000000000207008module</uri2>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3824"/>
+    <entity2 rdf:resource="http://snomed.info/id/52988006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27998"/>
+    <entity2 rdf:resource="http://snomed.info/id/255404009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2916"/>
+    <entity2 rdf:resource="http://snomed.info/id/68453008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99210"/>
+    <entity2 rdf:resource="http://snomed.info/id/255399007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68615"/>
+    <entity2 rdf:resource="http://snomed.info/id/184099003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25709"/>
+    <entity2 rdf:resource="http://snomed.info/id/767524001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3371"/>
+    <entity2 rdf:resource="http://snomed.info/id/95320005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25294"/>
+    <entity2 rdf:resource="http://snomed.info/id/108252007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89345"/>
+    <entity2 rdf:resource="http://snomed.info/id/255398004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3709"/>
+    <entity2 rdf:resource="http://snomed.info/id/118285006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27958"/>
+    <entity2 rdf:resource="http://snomed.info/id/260540009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12464"/>
+    <entity2 rdf:resource="http://snomed.info/id/2748008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34632"/>
+    <entity2 rdf:resource="http://snomed.info/id/25374005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34808"/>
+    <entity2 rdf:resource="http://snomed.info/id/4147007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15342"/>
+    <entity2 rdf:resource="http://snomed.info/id/24486003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21049"/>
+    <entity2 rdf:resource="http://snomed.info/id/8116006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3262"/>
+    <entity2 rdf:resource="http://snomed.info/id/55342001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27993"/>
+    <entity2 rdf:resource="http://snomed.info/id/106234000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9343"/>
+    <entity2 rdf:resource="http://snomed.info/id/126537000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74984"/>
+    <entity2 rdf:resource="http://snomed.info/id/78675000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4890"/>
+    <entity2 rdf:resource="http://snomed.info/id/448675008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25155"/>
+    <entity2 rdf:resource="http://snomed.info/id/3950001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"/>
+    <entity2 rdf:resource="http://snomed.info/id/85756007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3268"/>
+    <entity2 rdf:resource="http://snomed.info/id/126950007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36070"/>
+    <entity2 rdf:resource="http://snomed.info/id/128070006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12392"/>
+    <entity2 rdf:resource="http://snomed.info/id/10200004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15342"/>
+    <entity2 rdf:resource="http://snomed.info/id/263903005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12727"/>
+    <entity2 rdf:resource="http://snomed.info/id/80891009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12755"/>
+    <entity2 rdf:resource="http://snomed.info/id/25087005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36287"/>
+    <entity2 rdf:resource="http://snomed.info/id/118956008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3809"/>
+    <entity2 rdf:resource="http://snomed.info/id/128928004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25342"/>
+    <entity2 rdf:resource="http://snomed.info/id/277112006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45447"/>
+    <entity2 rdf:resource="http://snomed.info/id/363779003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32221"/>
+    <entity2 rdf:resource="http://snomed.info/id/38866009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94372"/>
+    <entity2 rdf:resource="http://snomed.info/id/246199000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49152"/>
+    <entity2 rdf:resource="http://snomed.info/id/398241000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3677"/>
+    <entity2 rdf:resource="http://snomed.info/id/3898006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34830"/>
+    <entity2 rdf:resource="http://snomed.info/id/85898001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16956"/>
+    <entity2 rdf:resource="http://snomed.info/id/308489006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26767"/>
+    <entity2 rdf:resource="http://snomed.info/id/371405004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35330"/>
+    <entity2 rdf:resource="http://snomed.info/id/359804008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13282"/>
+    <entity2 rdf:resource="http://snomed.info/id/67185001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13005"/>
+    <entity2 rdf:resource="http://snomed.info/id/76848001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50750"/>
+    <entity2 rdf:resource="http://snomed.info/id/90584004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26835"/>
+    <entity2 rdf:resource="http://snomed.info/id/118940003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9293"/>
+    <entity2 rdf:resource="http://snomed.info/id/126951006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4627"/>
+    <entity2 rdf:resource="http://snomed.info/id/372062007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7541"/>
+    <entity2 rdf:resource="http://snomed.info/id/19906005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3150"/>
+    <entity2 rdf:resource="http://snomed.info/id/126880001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3052"/>
+    <entity2 rdf:resource="http://snomed.info/id/128348002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508"/>
+    <entity2 rdf:resource="http://snomed.info/id/4421005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338"/>
+    <entity2 rdf:resource="http://snomed.info/id/246262008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43431"/>
+    <entity2 rdf:resource="http://snomed.info/id/257733005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12981"/>
+    <entity2 rdf:resource="http://snomed.info/id/260667007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12735"/>
+    <entity2 rdf:resource="http://snomed.info/id/116003000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35503"/>
+    <entity2 rdf:resource="http://snomed.info/id/312158001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3338"/>
+    <entity2 rdf:resource="http://snomed.info/id/72991005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32172"/>
+    <entity2 rdf:resource="http://snomed.info/id/113192009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25739"/>
+    <entity2 rdf:resource="http://snomed.info/id/47722004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34808"/>
+    <entity2 rdf:resource="http://snomed.info/id/300848003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12378"/>
+    <entity2 rdf:resource="http://snomed.info/id/86762007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700"/>
+    <entity2 rdf:resource="http://snomed.info/id/246333005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7541"/>
+    <entity2 rdf:resource="http://snomed.info/id/370967009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26875"/>
+    <entity2 rdf:resource="http://snomed.info/id/29555009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13023"/>
+    <entity2 rdf:resource="http://snomed.info/id/119202000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50754"/>
+    <entity2 rdf:resource="http://snomed.info/id/415582006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12401"/>
+    <entity2 rdf:resource="http://snomed.info/id/81745001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84776"/>
+    <entity2 rdf:resource="http://snomed.info/id/782957005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9305"/>
+    <entity2 rdf:resource="http://snomed.info/id/86049000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3671"/>
+    <entity2 rdf:resource="http://snomed.info/id/417163006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3262"/>
+    <entity2 rdf:resource="http://snomed.info/id/108369006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25698"/>
+    <entity2 rdf:resource="http://snomed.info/id/83578000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12810"/>
+    <entity2 rdf:resource="http://snomed.info/id/21514008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12229"/>
+    <entity2 rdf:resource="http://snomed.info/id/72914001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13310"/>
+    <entity2 rdf:resource="http://snomed.info/id/733021006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25173"/>
+    <entity2 rdf:resource="http://snomed.info/id/255401001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26912"/>
+    <entity2 rdf:resource="http://snomed.info/id/31996006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12679"/>
+    <entity2 rdf:resource="http://snomed.info/id/59820001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37987"/>
+    <entity2 rdf:resource="http://snomed.info/id/438949009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12778"/>
+    <entity2 rdf:resource="http://snomed.info/id/2841007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53684"/>
+    <entity2 rdf:resource="http://snomed.info/id/92069005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25404"/>
+    <entity2 rdf:resource="http://snomed.info/id/129264002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32039"/>
+    <entity2 rdf:resource="http://snomed.info/id/310833002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84758"/>
+    <entity2 rdf:resource="http://snomed.info/id/82966003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85869"/>
+    <entity2 rdf:resource="http://snomed.info/id/255396000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12788"/>
+    <entity2 rdf:resource="http://snomed.info/id/113192009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2991"/>
+    <entity2 rdf:resource="http://snomed.info/id/64572001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"/>
+    <entity2 rdf:resource="http://snomed.info/id/410671006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20197"/>
+    <entity2 rdf:resource="http://snomed.info/id/248153007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12372"/>
+    <entity2 rdf:resource="http://snomed.info/id/51114001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54105"/>
+    <entity2 rdf:resource="http://snomed.info/id/787781003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13019"/>
+    <entity2 rdf:resource="http://snomed.info/id/119263007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48187"/>
+    <entity2 rdf:resource="http://snomed.info/id/260769002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49236"/>
+    <entity2 rdf:resource="http://snomed.info/id/277132007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12981"/>
+    <entity2 rdf:resource="http://snomed.info/id/24486003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3423"/>
+    <entity2 rdf:resource="http://snomed.info/id/56717001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88025"/>
+    <entity2 rdf:resource="http://snomed.info/id/408574004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70810"/>
+    <entity2 rdf:resource="http://snomed.info/id/399753006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21007"/>
+    <entity2 rdf:resource="http://snomed.info/id/21134002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13377"/>
+    <entity2 rdf:resource="http://snomed.info/id/312237004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700"/>
+    <entity2 rdf:resource="http://snomed.info/id/31099001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12419"/>
+    <entity2 rdf:resource="http://snomed.info/id/69536005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45714"/>
+    <entity2 rdf:resource="http://snomed.info/id/31610004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4402"/>
+    <entity2 rdf:resource="http://snomed.info/id/126805009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2855"/>
+    <entity2 rdf:resource="http://snomed.info/id/443416007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93210"/>
+    <entity2 rdf:resource="http://snomed.info/id/128139000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3431"/>
+    <entity2 rdf:resource="http://snomed.info/id/126879004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4789"/>
+    <entity2 rdf:resource="http://snomed.info/id/92247009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12710"/>
+    <entity2 rdf:resource="http://snomed.info/id/31610004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84767"/>
+    <entity2 rdf:resource="http://snomed.info/id/276508000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12343"/>
+    <entity2 rdf:resource="http://snomed.info/id/5665001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39725"/>
+    <entity2 rdf:resource="http://snomed.info/id/234532001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35338"/>
+    <entity2 rdf:resource="http://snomed.info/id/16934004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36281"/>
+    <entity2 rdf:resource="http://snomed.info/id/106077005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C156420"/>
+    <entity2 rdf:resource="http://snomed.info/id/423493009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123031"/>
+    <entity2 rdf:resource="http://snomed.info/id/204949001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12470"/>
+    <entity2 rdf:resource="http://snomed.info/id/39937001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82599"/>
+    <entity2 rdf:resource="http://snomed.info/id/59888006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26832"/>
+    <entity2 rdf:resource="http://snomed.info/id/41370002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39723"/>
+    <entity2 rdf:resource="http://snomed.info/id/106182000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1505"/>
+    <entity2 rdf:resource="http://snomed.info/id/70241007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12754"/>
+    <entity2 rdf:resource="http://snomed.info/id/26107004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7928"/>
+    <entity2 rdf:resource="http://snomed.info/id/716661006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85188"/>
+    <entity2 rdf:resource="http://snomed.info/id/128210009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4741"/>
+    <entity2 rdf:resource="http://snomed.info/id/399917004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25688"/>
+    <entity2 rdf:resource="http://snomed.info/id/263490005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12597"/>
+    <entity2 rdf:resource="http://snomed.info/id/787781003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4086"/>
+    <entity2 rdf:resource="http://snomed.info/id/25723000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123221"/>
+    <entity2 rdf:resource="http://snomed.info/id/302233006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3235"/>
+    <entity2 rdf:resource="http://snomed.info/id/75934005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220"/>
+    <entity2 rdf:resource="http://snomed.info/id/439401001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2916"/>
+    <entity2 rdf:resource="http://snomed.info/id/722688002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12413"/>
+    <entity2 rdf:resource="http://snomed.info/id/122489005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9305"/>
+    <entity2 rdf:resource="http://snomed.info/id/363346000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12438"/>
+    <entity2 rdf:resource="http://snomed.info/id/21483005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28102"/>
+    <entity2 rdf:resource="http://snomed.info/id/106236003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3101"/>
+    <entity2 rdf:resource="http://snomed.info/id/782964007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12229"/>
+    <entity2 rdf:resource="http://snomed.info/id/128349005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87069"/>
+    <entity2 rdf:resource="http://snomed.info/id/87979003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2934"/>
+    <entity2 rdf:resource="http://snomed.info/id/23853001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12664"/>
+    <entity2 rdf:resource="http://snomed.info/id/818983003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3708"/>
+    <entity2 rdf:resource="http://snomed.info/id/402878003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2931"/>
+    <entity2 rdf:resource="http://snomed.info/id/49601007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94173"/>
+    <entity2 rdf:resource="http://snomed.info/id/184099003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15329"/>
+    <entity2 rdf:resource="http://snomed.info/id/387713003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35117"/>
+    <entity2 rdf:resource="http://snomed.info/id/27550009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3516"/>
+    <entity2 rdf:resource="http://snomed.info/id/203468000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12779"/>
+    <entity2 rdf:resource="http://snomed.info/id/20139000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12686"/>
+    <entity2 rdf:resource="http://snomed.info/id/113257007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25499"/>
+    <entity2 rdf:resource="http://snomed.info/id/272379006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C149975"/>
+    <entity2 rdf:resource="http://snomed.info/id/733021006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16631"/>
+    <entity2 rdf:resource="http://snomed.info/id/363779003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164"/>
+    <entity2 rdf:resource="http://snomed.info/id/410672004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4599"/>
+    <entity2 rdf:resource="http://snomed.info/id/92261004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2849"/>
+    <entity2 rdf:resource="http://snomed.info/id/276654001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3149"/>
+    <entity2 rdf:resource="http://snomed.info/id/90708001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7342"/>
+    <entity2 rdf:resource="http://snomed.info/id/254649008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27958"/>
+    <entity2 rdf:resource="http://snomed.info/id/738948007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3671"/>
+    <entity2 rdf:resource="http://snomed.info/id/19130008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33224"/>
+    <entity2 rdf:resource="http://snomed.info/id/57645008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4767"/>
+    <entity2 rdf:resource="http://snomed.info/id/363461003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2990"/>
+    <entity2 rdf:resource="http://snomed.info/id/53619000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12799"/>
+    <entity2 rdf:resource="http://snomed.info/id/51185008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64950"/>
+    <entity2 rdf:resource="http://snomed.info/id/421939007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12393"/>
+    <entity2 rdf:resource="http://snomed.info/id/15776009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12907"/>
+    <entity2 rdf:resource="http://snomed.info/id/48075008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13360"/>
+    <entity2 rdf:resource="http://snomed.info/id/261179002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157812"/>
+    <entity2 rdf:resource="http://snomed.info/id/63650001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48694"/>
+    <entity2 rdf:resource="http://snomed.info/id/4421005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4016"/>
+    <entity2 rdf:resource="http://snomed.info/id/428281000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12919"/>
+    <entity2 rdf:resource="http://snomed.info/id/91689009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12471"/>
+    <entity2 rdf:resource="http://snomed.info/id/87784001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28554"/>
+    <entity2 rdf:resource="http://snomed.info/id/419099009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28226"/>
+    <entity2 rdf:resource="http://snomed.info/id/12893009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12347"/>
+    <entity2 rdf:resource="http://snomed.info/id/363654007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3009"/>
+    <entity2 rdf:resource="http://snomed.info/id/362969004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12415"/>
+    <entity2 rdf:resource="http://snomed.info/id/64033007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700"/>
+    <entity2 rdf:resource="http://snomed.info/id/733021006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890"/>
+    <entity2 rdf:resource="http://snomed.info/id/87628006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16033"/>
+    <entity2 rdf:resource="http://snomed.info/id/308273005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13310"/>
+    <entity2 rdf:resource="http://snomed.info/id/246333005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16576"/>
+    <entity2 rdf:resource="http://snomed.info/id/248152002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4974"/>
+    <entity2 rdf:resource="http://snomed.info/id/128239009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33966"/>
+    <entity2 rdf:resource="http://snomed.info/id/119234009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26875"/>
+    <entity2 rdf:resource="http://snomed.info/id/399463004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150"/>
+    <entity2 rdf:resource="http://snomed.info/id/397669002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3063"/>
+    <entity2 rdf:resource="http://snomed.info/id/234646005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28193"/>
+    <entity2 rdf:resource="http://snomed.info/id/64572001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26729"/>
+    <entity2 rdf:resource="http://snomed.info/id/105969002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12981"/>
+    <entity2 rdf:resource="http://snomed.info/id/129407005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3716"/>
+    <entity2 rdf:resource="http://snomed.info/id/204949001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3030"/>
+    <entity2 rdf:resource="http://snomed.info/id/371486001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13071"/>
+    <entity2 rdf:resource="http://snomed.info/id/89545001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14135"/>
+    <entity2 rdf:resource="http://snomed.info/id/4421005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16977"/>
+    <entity2 rdf:resource="http://snomed.info/id/8116006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2978"/>
+    <entity2 rdf:resource="http://snomed.info/id/367643001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3516"/>
+    <entity2 rdf:resource="http://snomed.info/id/76000001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2920"/>
+    <entity2 rdf:resource="http://snomed.info/id/372130007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2855"/>
+    <entity2 rdf:resource="http://snomed.info/id/32048006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54103"/>
+    <entity2 rdf:resource="http://snomed.info/id/115233005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13310"/>
+    <entity2 rdf:resource="http://snomed.info/id/31099001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91106"/>
+    <entity2 rdf:resource="http://snomed.info/id/129265001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89345"/>
+    <entity2 rdf:resource="http://snomed.info/id/68433009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2978"/>
+    <entity2 rdf:resource="http://snomed.info/id/441457006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13309"/>
+    <entity2 rdf:resource="http://snomed.info/id/738989005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9440"/>
+    <entity2 rdf:resource="http://snomed.info/id/263654008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3077"/>
+    <entity2 rdf:resource="http://snomed.info/id/255055008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C107377"/>
+    <entity2 rdf:resource="http://snomed.info/id/928000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12680"/>
+    <entity2 rdf:resource="http://snomed.info/id/52530000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25161"/>
+    <entity2 rdf:resource="http://snomed.info/id/278201002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3372"/>
+    <entity2 rdf:resource="http://snomed.info/id/126488004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112175"/>
+    <entity2 rdf:resource="http://snomed.info/id/41291007"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3430"/>
+    <entity2 rdf:resource="http://snomed.info/id/128606002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12374"/>
+    <entity2 rdf:resource="http://snomed.info/id/21793004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13308"/>
+    <entity2 rdf:resource="http://snomed.info/id/128241005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3079"/>
+    <entity2 rdf:resource="http://snomed.info/id/56265001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3338"/>
+    <entity2 rdf:resource="http://snomed.info/id/48099008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C156660"/>
+    <entity2 rdf:resource="http://snomed.info/id/42030000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91106"/>
+    <entity2 rdf:resource="http://snomed.info/id/386053000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4788"/>
+    <entity2 rdf:resource="http://snomed.info/id/372063002"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+
+</Alignment>
+</rdf:RDF>

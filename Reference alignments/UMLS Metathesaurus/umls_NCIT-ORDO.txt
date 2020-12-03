@@ -1,0 +1,1484 @@
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99037|http://www.orpha.net/ORDO/Orphanet_766|C0340968|Pyruvate Kinase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61267|http://www.orpha.net/ORDO/Orphanet_79212|C0026697|Mucolipidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34825|http://www.orpha.net/ORDO/Orphanet_2331|C0026691|Mucocutaneous Lymph Node Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3472|http://www.orpha.net/ORDO/Orphanet_183660|C0085110|Severe Combined Immunodeficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82865|http://www.orpha.net/ORDO/Orphanet_2841|C0085106|Benign Familial Pemphigus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3473|http://www.orpha.net/ORDO/Orphanet_251896|C0085138|Choroid Plexus Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84739|http://www.orpha.net/ORDO/Orphanet_354|C0085131|GM1 Gangliosidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84895|http://www.orpha.net/ORDO/Orphanet_2573|C0026654|Moyamoya Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116757|http://www.orpha.net/ORDO/Orphanet_102003|C0026650|Movement Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35300|http://www.orpha.net/ORDO/Orphanet_91355|C0242342|Sheehan Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C110940|http://www.orpha.net/ORDO/Orphanet_90695|C0242343|Panhypopituitarism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80385|http://www.orpha.net/ORDO/Orphanet_101953|C0242339|Dyslipidemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75018|http://www.orpha.net/ORDO/Orphanet_155899|C0242387|Mandibulofacial Dysostosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82833|http://www.orpha.net/ORDO/Orphanet_2924|C0158683|Polycystic Liver Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85032|http://www.orpha.net/ORDO/Orphanet_744|C0085261|Proteus Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85170|http://www.orpha.net/ORDO/Orphanet_3198|C0085292|Stiff-Person Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92727|http://www.orpha.net/ORDO/Orphanet_1915|C3146244|Alcohol Related Birth Defect
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35139|http://www.orpha.net/ORDO/Orphanet_52|C0085280|Alagille Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C155766|http://www.orpha.net/ORDO/Orphanet_178320|C0242488|Acute Lung Injury
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4146|http://www.orpha.net/ORDO/Orphanet_319303|C1266042|Chromophobe Renal Cell Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6194|http://www.orpha.net/ORDO/Orphanet_247203|C1266044|Kidney Collecting Duct Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3898|http://www.orpha.net/ORDO/Orphanet_300912|C0242647|Mucosa-Associated Lymphoid Tissue Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3239|http://www.orpha.net/ORDO/Orphanet_102020|C0026499|Monosomy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6885|http://www.orpha.net/ORDO/Orphanet_263324|C1266092|Thymoma Type AB
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6454|http://www.orpha.net/ORDO/Orphanet_263310|C1266091|Thymoma Type A
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4646|http://www.orpha.net/ORDO/Orphanet_99926|C0349557|Gestational Choriocarcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3476|http://www.orpha.net/ORDO/Orphanet_524|C0085390|Li-Fraumeni Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4783|http://www.orpha.net/ORDO/Orphanet_206473|C3665489|Borderline Epithelial Tumor of Ovary
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4662|http://www.orpha.net/ORDO/Orphanet_252046|C1266113|Meningeal Melanocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7634|http://www.orpha.net/ORDO/Orphanet_2126|C1266119|Solitary Fibrous Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6450|http://www.orpha.net/ORDO/Orphanet_3398|C1266101|Thymic Epithelial Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62586|http://www.orpha.net/ORDO/Orphanet_1302|C0242770|Bronchiolitis Obliterans Organizing Pneumonia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6900|http://www.orpha.net/ORDO/Orphanet_254698|C1266159|Epithelioid Trophoblastic Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5669|http://www.orpha.net/ORDO/Orphanet_64742|C1266144|Pleuropulmonary Blastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6913|http://www.orpha.net/ORDO/Orphanet_98845|C1266194|Lymphocyte Rich Classical Hodgkin Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66845|http://www.orpha.net/ORDO/Orphanet_252128|C1266188|Malignant Perineurioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9505|http://www.orpha.net/ORDO/Orphanet_251946|C1266177|Dysembryoplastic Neuroepithelial Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53686|http://www.orpha.net/ORDO/Orphanet_251902|C1266176|Atypical Choroid Plexus Papilloma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80303|http://www.orpha.net/ORDO/Orphanet_2905|C0085404|POEMS Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84891|http://www.orpha.net/ORDO/Orphanet_2552|C0085407|Microsporidiosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84576|http://www.orpha.net/ORDO/Orphanet_282196|C0085409|Autoimmune Polyendocrinopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128332|http://www.orpha.net/ORDO/Orphanet_29207|C0085435|Reactive Arthritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8300|http://www.orpha.net/ORDO/Orphanet_83469|C0281508|Desmoplastic Small Round Cell Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84644|http://www.orpha.net/ORDO/Orphanet_98980|C1168173|Cogan-Reese Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128637|http://www.orpha.net/ORDO/Orphanet_60032|C1168198|Recurrent Respiratory Papillomatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8493|http://www.orpha.net/ORDO/Orphanet_145|C0677776|Hereditary Breast and Ovarian Cancer Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9184|http://www.orpha.net/ORDO/Orphanet_279904|C0281658|Intraocular Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3249|http://www.orpha.net/ORDO/Orphanet_98833|C0026998|Acute M1 Myeloid Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3248|http://www.orpha.net/ORDO/Orphanet_824|C0026987|Myelofibrosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4680|http://www.orpha.net/ORDO/Orphanet_199251|C0158360|Plantar Fibromatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129073|http://www.orpha.net/ORDO/Orphanet_67041|C1291490|Hyaluronidase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111645|http://www.orpha.net/ORDO/Orphanet_99122|C0340757|Inferior Vena Cava Stenosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60989|http://www.orpha.net/ORDO/Orphanet_589|C0026896|Myasthenia Gravis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2989|http://www.orpha.net/ORDO/Orphanet_567|C0012236|DiGeorge Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84910|http://www.orpha.net/ORDO/Orphanet_97242|C0026850|Muscular Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142085|http://www.orpha.net/ORDO/Orphanet_35708|C1291564|Aromatic L-Amino-Acid Decarboxylase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48627|http://www.orpha.net/ORDO/Orphanet_562|C0242292|McCune-Albright Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98970|http://www.orpha.net/ORDO/Orphanet_2374|C0281890|Laryngeal Web
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3242|http://www.orpha.net/ORDO/Orphanet_29073|C0026764|Multiple Myeloma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85177|http://www.orpha.net/ORDO/Orphanet_3243|C0085077|Sweet Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61264|http://www.orpha.net/ORDO/Orphanet_583|C0026709|Mucopolysaccharidosis VI
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61263|http://www.orpha.net/ORDO/Orphanet_582|C0026707|Mucopolysaccharidosis IV
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61259|http://www.orpha.net/ORDO/Orphanet_79213|C0026703|Mucopolysaccharidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98891|http://www.orpha.net/ORDO/Orphanet_264688|C0340014|Congenital Chylothorax
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124057|http://www.orpha.net/ORDO/Orphanet_2524|C2932714|Pontocerebellar Hypoplasia Type 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131132|http://www.orpha.net/ORDO/Orphanet_94090|C2932717|Pseudohypoparathyroidism, Type 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C119055|http://www.orpha.net/ORDO/Orphanet_69126|C1858361|Pyogenic Arthritis, Pyoderma Gangrenosum and Acne
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131653|http://www.orpha.net/ORDO/Orphanet_93585|C2584778|Acquired Thrombotic Thrombocytopenic Purpura
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85010|http://www.orpha.net/ORDO/Orphanet_718|C0031900|Pierre Robin Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85195|http://www.orpha.net/ORDO/Orphanet_411501|C0340231|Tracheobronchomalacia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34444|http://www.orpha.net/ORDO/Orphanet_1334|C0006845|Chronic Mucocutaneous Candidiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94833|http://www.orpha.net/ORDO/Orphanet_139411|C1858592|Carney Triad
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118434|http://www.orpha.net/ORDO/Orphanet_79443|C3494506|Pseudohypoparathyroidism, Type IA
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84892|http://www.orpha.net/ORDO/Orphanet_251312|C0026272|Mixed Connective Tissue Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98809|http://www.orpha.net/ORDO/Orphanet_210122|C2677362|Alveolar Capillary Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8851|http://www.orpha.net/ORDO/Orphanet_544|C0079744|Diffuse Large B-Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3466|http://www.orpha.net/ORDO/Orphanet_171918|C0079772|T-Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3467|http://www.orpha.net/ORDO/Orphanet_171901|C0079773|Cutaneous T Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3468|http://www.orpha.net/ORDO/Orphanet_86885|C0079774|Peripheral T-Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38661|http://www.orpha.net/ORDO/Orphanet_168966|C0545080|Composite Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116552|http://www.orpha.net/ORDO/Orphanet_1934|C0393706|Early Infantile Epileptic Encephalopathy with Burst-Suppression
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35065|http://www.orpha.net/ORDO/Orphanet_397|C1956391|Temporal Arteritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34819|http://www.orpha.net/ORDO/Orphanet_79078|C0026103|Mikulicz Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116958|http://www.orpha.net/ORDO/Orphanet_98919|C0393799|Miller Fisher Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99011|http://www.orpha.net/ORDO/Orphanet_1335|C0559483|Pentalogy of Cantrell
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9182|http://www.orpha.net/ORDO/Orphanet_873|C0079218|Aggressive Fibromatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3324|http://www.orpha.net/ORDO/Orphanet_2869|C0031269|Peutz-Jeghers Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62580|http://www.orpha.net/ORDO/Orphanet_1303|C0006272|Bronchiolitis Obliterans
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90599|http://www.orpha.net/ORDO/Orphanet_70589|C0006287|Bronchopulmonary Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84690|http://www.orpha.net/ORDO/Orphanet_46487|C0079293|Epidermolysis Bullosa Acquisita
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84691|http://www.orpha.net/ORDO/Orphanet_303|C0079294|Epidermolysis Bullosa Dystrophica
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84692|http://www.orpha.net/ORDO/Orphanet_304|C0079298|Epidermolysis Bullosa Simplex
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6905|http://www.orpha.net/ORDO/Orphanet_251931|C1370507|Cerebellar Liponeurocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90598|http://www.orpha.net/ORDO/Orphanet_305|C0079301|Junctional Epidermolysis Bullosa
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C119734|http://www.orpha.net/ORDO/Orphanet_98496|C0031117|Peripheral Neuropathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9335|http://www.orpha.net/ORDO/Orphanet_180257|C0006142|Malignant Neoplasm of Breast
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6911|http://www.orpha.net/ORDO/Orphanet_100003|C1370658|Intraneural Perineurioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84707|http://www.orpha.net/ORDO/Orphanet_342|C0031069|Familial Mediterranean Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26847|http://www.orpha.net/ORDO/Orphanet_767|C0031036|Polyarteritis Nodosa
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84599|http://www.orpha.net/ORDO/Orphanet_1267|C0006057|Botulism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4686|http://www.orpha.net/ORDO/Orphanet_1183|C0393626|Opsoclonus-Myoclonus Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97164|http://www.orpha.net/ORDO/Orphanet_168782|C0236791|Childhood Disintegrative Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74988|http://www.orpha.net/ORDO/Orphanet_2162|C0079541|Holoprosencephaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84779|http://www.orpha.net/ORDO/Orphanet_461|C0079588|Ichthyosis, X-linked
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131420|http://www.orpha.net/ORDO/Orphanet_50945|C1859148|Blomstrand Type Chondrodysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4685|http://www.orpha.net/ORDO/Orphanet_36388|C0393534|Paraneoplastic Cerebellar Degeneration
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84909|http://www.orpha.net/ORDO/Orphanet_102|C0393571|Multiple System Atrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7431|http://www.orpha.net/ORDO/Orphanet_213500|C1140680|Malignant Neoplasm of Ovary
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27349|http://www.orpha.net/ORDO/Orphanet_86896|C0334663|Histiocytic Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9295|http://www.orpha.net/ORDO/Orphanet_98292|C0334664|Mast Cell Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4344|http://www.orpha.net/ORDO/Orphanet_86843|C0334674|Acute Panmyelosis with Myelofibrosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126559|http://www.orpha.net/ORDO/Orphanet_2812|C1850079|Parana Hard-Skin Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84607|http://www.orpha.net/ORDO/Orphanet_280062|C0006666|Calciphylaxis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39921|http://www.orpha.net/ORDO/Orphanet_99865|C0334517|Spermatocytic Seminoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4290|http://www.orpha.net/ORDO/Orphanet_180234|C0334524|Mixed Germ Cell Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4293|http://www.orpha.net/ORDO/Orphanet_254693|C0334529|Partial Hydatidiform Mole
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2882|http://www.orpha.net/ORDO/Orphanet_211266|C0334533|Arteriovenous Hemangioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34928|http://www.orpha.net/ORDO/Orphanet_294975|C0031575|Phocomelia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4318|http://www.orpha.net/ORDO/Orphanet_251582|C0334576|Gliomatosis Cerebri
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129292|http://www.orpha.net/ORDO/Orphanet_251589|C0334579|Anaplastic Astrocytoma, NOS
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4047|http://www.orpha.net/ORDO/Orphanet_251612|C0334583|Pilocytic Astrocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4323|http://www.orpha.net/ORDO/Orphanet_251607|C0334586|Pleomorphic Xanthoastrocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4324|http://www.orpha.net/ORDO/Orphanet_251679|C0334587|Astroblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4325|http://www.orpha.net/ORDO/Orphanet_251579|C0334588|Giant Cell Glioblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4320|http://www.orpha.net/ORDO/Orphanet_251598|C0334580|Protoplasmic Astrocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4321|http://www.orpha.net/ORDO/Orphanet_251604|C0334581|Gemistocytic Astrocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4322|http://www.orpha.net/ORDO/Orphanet_251601|C0334582|Fibrillary Astrocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4327|http://www.orpha.net/ORDO/Orphanet_251883|C0334596|Medulloepithelioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4326|http://www.orpha.net/ORDO/Orphanet_251630|C0334590|Anaplastic Oligodendroglioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126566|http://www.orpha.net/ORDO/Orphanet_93256|C1839780|Fragile X Tremor/Ataxia Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81315|http://www.orpha.net/ORDO/Orphanet_716|C0031485|Phenylketonuria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62545|http://www.orpha.net/ORDO/Orphanet_353253|C0006430|Burning Mouth Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2912|http://www.orpha.net/ORDO/Orphanet_543|C0006413|Burkitt Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128192|http://www.orpha.net/ORDO/Orphanet_1052|C1850343|Mosaic Variegated Aneuploidy Syndrome 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62569|http://www.orpha.net/ORDO/Orphanet_312|C0079153|Epidermolytic Hyperkeratosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C119058|http://www.orpha.net/ORDO/Orphanet_77297|C1864997|Majeed Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84602|http://www.orpha.net/ORDO/Orphanet_1304|C0006309|Brucellosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4250|http://www.orpha.net/ORDO/Orphanet_99971|C1370889|Well-Differentiated Liposarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98863|http://www.orpha.net/ORDO/Orphanet_79157|C1864912|2-Methylbutyryl-CoA Dehydrogenase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26746|http://www.orpha.net/ORDO/Orphanet_801|C0011644|Scleroderma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26744|http://www.orpha.net/ORDO/Orphanet_221|C0011633|Dermatomyositis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26742|http://www.orpha.net/ORDO/Orphanet_1656|C0011608|Dermatitis Herpetiformis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4131|http://www.orpha.net/ORDO/Orphanet_401920|C0334287|Fibrolamellar Hepatocellular Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92780|http://www.orpha.net/ORDO/Orphanet_1915|C2985290|Fetal Alcohol Spectrum Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92728|http://www.orpha.net/ORDO/Orphanet_1915|C0814154|Alcohol Related Neurodevelopmental Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92624|http://www.orpha.net/ORDO/Orphanet_251915|C2985219|Papillary Tumor of the Pineal Region
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61230|http://www.orpha.net/ORDO/Orphanet_88|C0348890|Idiopathic Aplastic Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4112|http://www.orpha.net/ORDO/Orphanet_864|C0334262|Trichofolliculoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6481|http://www.orpha.net/ORDO/Orphanet_178342|C0334121|Inflammatory Myofibroblastic Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84667|http://www.orpha.net/ORDO/Orphanet_167762|C0011436|Dentinogenesis Imperfecta
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84904|http://www.orpha.net/ORDO/Orphanet_53271|C1864436|Muenke Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4205|http://www.orpha.net/ORDO/Orphanet_99915|C0334401|Malignant Granulosa Cell Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4247|http://www.orpha.net/ORDO/Orphanet_2023|C0334463|Malignant Fibrous Histiocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4265|http://www.orpha.net/ORDO/Orphanet_677|C0334489|Pancreatoblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4258|http://www.orpha.net/ORDO/Orphanet_293199|C0334480|Pleomorphic Rhabdomyosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99054|http://www.orpha.net/ORDO/Orphanet_3027|C0300948|Caudal Regression Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34528|http://www.orpha.net/ORDO/Orphanet_99828|C0011311|Dengue Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85874|http://www.orpha.net/ORDO/Orphanet_199642|C0025958|Microcephaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98930|http://www.orpha.net/ORDO/Orphanet_1906|C0236026|Fetal Valproate Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92554|http://www.orpha.net/ORDO/Orphanet_251962|C2985174|Papillary Glioneuronal Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131007|http://www.orpha.net/ORDO/Orphanet_1667|C0432217|Wolcott-Rallison Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84610|http://www.orpha.net/ORDO/Orphanet_1328|C0011989|Camurati-Engelmann Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26749|http://www.orpha.net/ORDO/Orphanet_97282|C0011993|VIPoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98913|http://www.orpha.net/ORDO/Orphanet_1671|C0011999|Diastematomyelia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9061|http://www.orpha.net/ORDO/Orphanet_398043|C0853105|Carcinoma of Penis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34510|http://www.orpha.net/ORDO/Orphanet_181415|C1384514|Conn Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26747|http://www.orpha.net/ORDO/Orphanet_181376|C0011860|Non-Insulin Dependent Diabetes Mellitus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4727|http://www.orpha.net/ORDO/Orphanet_70568|C0432487|Post-Transplant Lymphoproliferative Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2985|http://www.orpha.net/ORDO/Orphanet_101952|C0011849|Diabetes Mellitus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34537|http://www.orpha.net/ORDO/Orphanet_528|C0011859|Lipoatrophic Diabetes Mellitus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86032|http://www.orpha.net/ORDO/Orphanet_393|C0432475|XX Male
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2986|http://www.orpha.net/ORDO/Orphanet_181371|C0011854|Insulin Dependent Diabetes Mellitus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84669|http://www.orpha.net/ORDO/Orphanet_1666|C0011813|Dextrocardia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C132062|http://www.orpha.net/ORDO/Orphanet_2762|C0334041|Osteoma Cutis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4087|http://www.orpha.net/ORDO/Orphanet_69745|C0334063|Warty Dyskeratoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99082|http://www.orpha.net/ORDO/Orphanet_3312|C0432365|Thalidomide Embryopathy Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84777|http://www.orpha.net/ORDO/Orphanet_455|C0432306|Ichthyosis Bullosa of Siemens
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122782|http://www.orpha.net/ORDO/Orphanet_93476|C0086431|Hurler-Scheie Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26931|http://www.orpha.net/ORDO/Orphanet_229717|C0086438|Hypogammaglobulinemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34560|http://www.orpha.net/ORDO/Orphanet_364559|C0013393|Dysostosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84706|http://www.orpha.net/ORDO/Orphanet_1764|C0013364|Familial Dysautonomia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123021|http://www.orpha.net/ORDO/Orphanet_91500|C1843273|Tubulointerstitial Nephritis and Uveitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7583|http://www.orpha.net/ORDO/Orphanet_263425|C0027961|Nevus of Ota
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34555|http://www.orpha.net/ORDO/Orphanet_631|C0013338|Pituitary Dwarfism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26713|http://www.orpha.net/ORDO/Orphanet_98640|C0086543|Cataract
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75482|http://www.orpha.net/ORDO/Orphanet_98896|C0013264|Duchenne Muscular Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84678|http://www.orpha.net/ORDO/Orphanet_233|C0013261|Duane Retraction Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61257|http://www.orpha.net/ORDO/Orphanet_216|C0027877|Neuronal Ceroid Lipofuscinosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84934|http://www.orpha.net/ORDO/Orphanet_71211|C0027873|Neuromyelitis Optica
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94829|http://www.orpha.net/ORDO/Orphanet_94093|C0027849|Neuroleptic Malignant Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3276|http://www.orpha.net/ORDO/Orphanet_637|C0027859|Acoustic Neuroma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3272|http://www.orpha.net/ORDO/Orphanet_252183|C0027830|Neurofibroma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3273|http://www.orpha.net/ORDO/Orphanet_636|C0027831|Neurofibromatosis 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3274|http://www.orpha.net/ORDO/Orphanet_637|C0027832|Neurofibromatosis 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3269|http://www.orpha.net/ORDO/Orphanet_252164|C0027809|Neurilemmoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35442|http://www.orpha.net/ORDO/Orphanet_101938|C0400923|Liver Vascular Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3270|http://www.orpha.net/ORDO/Orphanet_635|C0027819|Neuroblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9039|http://www.orpha.net/ORDO/Orphanet_213761|C0302592|Cervix Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8567|http://www.orpha.net/ORDO/Orphanet_2086|C0796418|Visual Pathway Glioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84897|http://www.orpha.net/ORDO/Orphanet_79269|C0086647|Mucopolysaccharidosis Type IIIA
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84898|http://www.orpha.net/ORDO/Orphanet_79270|C0086648|MPS III B
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84899|http://www.orpha.net/ORDO/Orphanet_79271|C0086649|MPS III C
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84902|http://www.orpha.net/ORDO/Orphanet_309310|C0086652|Mucopolysaccharidosis Type IVB
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84900|http://www.orpha.net/ORDO/Orphanet_79272|C0086650|MPS III D
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3268|http://www.orpha.net/ORDO/Orphanet_98062|C0027766|Nervous System Neoplasms
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4375|http://www.orpha.net/ORDO/Orphanet_657|C0027773|Nesidioblastosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8574|http://www.orpha.net/ORDO/Orphanet_86836|C0796466|Refractory Cytopenia with Multilineage Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84677|http://www.orpha.net/ORDO/Orphanet_231|C0013100|Dracunculiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3267|http://www.orpha.net/ORDO/Orphanet_654|C0027708|Nephroblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26979|http://www.orpha.net/ORDO/Orphanet_404580|C0409667|Juvenile Chronic Polyarthritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9351|http://www.orpha.net/ORDO/Orphanet_50251|C1377913|Pleural Mesothelioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2993|http://www.orpha.net/ORDO/Orphanet_870|C0013080|Down Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98916|http://www.orpha.net/ORDO/Orphanet_3426|C0013069|Double Outlet Right Ventricle
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3488|http://www.orpha.net/ORDO/Orphanet_97282|C0086768|Pancreatic Cholera
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6432|http://www.orpha.net/ORDO/Orphanet_276161|C0027662|Multiple Endocrine Neoplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35717|http://www.orpha.net/ORDO/Orphanet_91364|C1290344|Nonspecific Interstitial Pneumonia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C148371|http://www.orpha.net/ORDO/Orphanet_1777|C1857512|Temtamy Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4740|http://www.orpha.net/ORDO/Orphanet_166286|C0473579|Porokeratotic Eccrine Ostial and Dermal Duct Nevus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133724|http://www.orpha.net/ORDO/Orphanet_97229|C0796274|Brown-Vialetto-Van Laere Syndrome 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7540|http://www.orpha.net/ORDO/Orphanet_67038|C0855095|Small Lymphocytic Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34568|http://www.orpha.net/ORDO/Orphanet_98249|C0013720|Ehlers-Danlos Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84774|http://www.orpha.net/ORDO/Orphanet_31153|C0473527|Hypoalphalipoproteinemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118787|http://www.orpha.net/ORDO/Orphanet_373|C0796154|Simpson Golabi Behmel Syndrome Type 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84531|http://www.orpha.net/ORDO/Orphanet_36|C0796147|Acrocallosal Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4924|http://www.orpha.net/ORDO/Orphanet_33364|C1955934|Trichothiodystrophy Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84894|http://www.orpha.net/ORDO/Orphanet_573|C0546966|Monilethrix
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125484|http://www.orpha.net/ORDO/Orphanet_1885|C0013581|Ectopia Lentis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111643|http://www.orpha.net/ORDO/Orphanet_448270|C0013580|Ectopia Cordis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124837|http://www.orpha.net/ORDO/Orphanet_2322|C0796004|Kabuki Make-Up Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84683|http://www.orpha.net/ORDO/Orphanet_79373|C0013575|Ectodermal Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35685|http://www.orpha.net/ORDO/Orphanet_178512|C1627767|Follicular Mycosis Fungoides
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84682|http://www.orpha.net/ORDO/Orphanet_400|C0013502|Echinococcosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123815|http://www.orpha.net/ORDO/Orphanet_2588|C0796081|Myhre Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84681|http://www.orpha.net/ORDO/Orphanet_1880|C0013481|Ebstein Anomaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35806|http://www.orpha.net/ORDO/Orphanet_79126|C1279945|Acute Interstitial Pneumonia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7584|http://www.orpha.net/ORDO/Orphanet_404560|C0013403|Dysplastic Nevus Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94694|http://www.orpha.net/ORDO/Orphanet_94075|C0341305|Autoimmune Enteropathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27189|http://www.orpha.net/ORDO/Orphanet_37202|C0282488|Interstitial Cystitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84914|http://www.orpha.net/ORDO/Orphanet_206647|C0027126|Myotonic Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84912|http://www.orpha.net/ORDO/Orphanet_614|C0027127|Myotonia Congenita
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133729|http://www.orpha.net/ORDO/Orphanet_777|C2931498|Mental Retardation, X-linked 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C102533|http://www.orpha.net/ORDO/Orphanet_98619|C0027092|Myopia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128400|http://www.orpha.net/ORDO/Orphanet_75110|C0027030|Myiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84615|http://www.orpha.net/ORDO/Orphanet_137|C0282577|Congenital Disorder of Glycosylation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84806|http://www.orpha.net/ORDO/Orphanet_98818|C0282512|Landau-Kleffner Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99251|http://www.orpha.net/ORDO/Orphanet_44|C0282525|Neonatal Adrenoleukodystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85005|http://www.orpha.net/ORDO/Orphanet_68373|C0282528|Peroxisomal Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85047|http://www.orpha.net/ORDO/Orphanet_177|C0282529|Rhizomelic Chondrodysplasia Punctata
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7478|http://www.orpha.net/ORDO/Orphanet_70482|C0546837|Malignant Neoplasm of Esophagus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C119024|http://www.orpha.net/ORDO/Orphanet_85438|C3495919|Enthesitis-Related Arthritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36171|http://www.orpha.net/ORDO/Orphanet_341|C0282687|Ebola Hemorrhagic Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84747|http://www.orpha.net/ORDO/Orphanet_319247|C0243025|Hantavirus Pulmonary Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85202|http://www.orpha.net/ORDO/Orphanet_1209|C0243002|Tricuspid Atresia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4063|http://www.orpha.net/ORDO/Orphanet_206982|C0282606|Myomatous Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124846|http://www.orpha.net/ORDO/Orphanet_1713|C2931246|Potocki-Lupski Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27264|http://www.orpha.net/ORDO/Orphanet_618|C2314896|Familial Atypical Mole Melanoma Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4664|http://www.orpha.net/ORDO/Orphanet_86872|C1955861|T-Cell Large Granular Lymphocyte Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3444|http://www.orpha.net/ORDO/Orphanet_900|C3495801|Granulomatosis with Polyangiitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129021|http://www.orpha.net/ORDO/Orphanet_1001|C2931817|Chromosome 2q37 Deletion Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120046|http://www.orpha.net/ORDO/Orphanet_2020|C0546264|Congenital Fiber-Type Disproportion
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122788|http://www.orpha.net/ORDO/Orphanet_612|C2931826|Potassium Aggravated Myotonia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3871|http://www.orpha.net/ORDO/Orphanet_150|C2931822|Nasopharyngeal Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84917|http://www.orpha.net/ORDO/Orphanet_199244|C0027577|Nelson Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129975|http://www.orpha.net/ORDO/Orphanet_79159|C1969809|Isobutyryl-CoA Dehydrogenase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78393|http://www.orpha.net/ORDO/Orphanet_220489|C0282193|Iron Overload
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98822|http://www.orpha.net/ORDO/Orphanet_1114|C0282160|Aplasia Cutis Congenita
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4872|http://www.orpha.net/ORDO/Orphanet_180257|C0678222|Breast Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4871|http://www.orpha.net/ORDO/Orphanet_254688|C0678213|Complete Hydatidiform Mole
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84489|http://www.orpha.net/ORDO/Orphanet_2073|C0027404|Narcolepsy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125661|http://www.orpha.net/ORDO/Orphanet_1361|C3495555|Carnosinemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153289|http://www.orpha.net/ORDO/Orphanet_313808|C3711381|Hereditary Diffuse Leukoencephalopathy with Spheroids
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27105|http://www.orpha.net/ORDO/Orphanet_73247|C0341106|Eosinophilic Esophagitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75120|http://www.orpha.net/ORDO/Orphanet_2614|C0027341|Nail-Patella Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84680|http://www.orpha.net/ORDO/Orphanet_606|C2931689|Dystrophia Myotonica 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4754|http://www.orpha.net/ORDO/Orphanet_210584|C1304508|Spindle -Cell Hemangioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123223|http://www.orpha.net/ORDO/Orphanet_2134|C2931788|Atypical Hemolytic Uremic Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3339|http://www.orpha.net/ORDO/Orphanet_733|C0032580|Adenomatous Polyposis Coli
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3338|http://www.orpha.net/ORDO/Orphanet_96321|C0032578|Polyploidy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85018|http://www.orpha.net/ORDO/Orphanet_93569|C0032533|Polymyalgia Rheumatica
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123265|http://www.orpha.net/ORDO/Orphanet_89936|C3540852|X-linked Hypophosphatemic Rickets
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35528|http://www.orpha.net/ORDO/Orphanet_280|C1956097|Wolf-Hirschhorn Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98982|http://www.orpha.net/ORDO/Orphanet_2241|C1608393|Megacystis, Microcolon, Intestinal Hypoperistalsis Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26863|http://www.orpha.net/ORDO/Orphanet_98427|C0032461|Polycythemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3336|http://www.orpha.net/ORDO/Orphanet_729|C0032463|Polycythemia Vera
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157268|http://www.orpha.net/ORDO/Orphanet_728|C0032453|Relapsing Polychondritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121572|http://www.orpha.net/ORDO/Orphanet_99994|C0007462|Causalgia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122655|http://www.orpha.net/ORDO/Orphanet_2289|C1863843|Neuronal Intranuclear Inclusion Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85017|http://www.orpha.net/ORDO/Orphanet_2911|C0032357|Poland Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3335|http://www.orpha.net/ORDO/Orphanet_2909|C0032339|Rothmund-Thomson Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84620|http://www.orpha.net/ORDO/Orphanet_50839|C0007361|Cat-Scratch Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26861|http://www.orpha.net/ORDO/Orphanet_182098|C0032273|Pneumoconiosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85016|http://www.orpha.net/ORDO/Orphanet_54028|C0032249|Plummer-Vinson Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27038|http://www.orpha.net/ORDO/Orphanet_168956|C1540912|Hypereosinophilic Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84673|http://www.orpha.net/ORDO/Orphanet_217604|C0007193|Dilated Cardiomyopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34449|http://www.orpha.net/ORDO/Orphanet_217569|C0007194|Hypertrophic Cardiomyopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62798|http://www.orpha.net/ORDO/Orphanet_217632|C0007196|Restrictive Cardiomyopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9349|http://www.orpha.net/ORDO/Orphanet_86855|C0032131|Plasmacytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3908|http://www.orpha.net/ORDO/Orphanet_300557|C0262401|Ampulla of Vater Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2941|http://www.orpha.net/ORDO/Orphanet_167|C0007965|Chediak-Higashi Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75467|http://www.orpha.net/ORDO/Orphanet_166|C0007959|Charcot-Marie-Tooth Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75463|http://www.orpha.net/ORDO/Orphanet_739|C0032897|Prader-Willi Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43298|http://www.orpha.net/ORDO/Orphanet_1333|C2931038|Familial Pancreatic Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9311|http://www.orpha.net/ORDO/Orphanet_213761|C0007847|Malignant Tumor of Cervix
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84670|http://www.orpha.net/ORDO/Orphanet_59298|C0007795|Diffuse Cerebral Sclerosis of Schilder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3917|http://www.orpha.net/ORDO/Orphanet_180247|C0262659|Vagina Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43558|http://www.orpha.net/ORDO/Orphanet_391723|C1706832|Appendix Mucinous Adenocarcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C132195|http://www.orpha.net/ORDO/Orphanet_2065|C0795949|Galloway-Mowat Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123814|http://www.orpha.net/ORDO/Orphanet_1540|C0795998|Jackson-Weiss Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126744|http://www.orpha.net/ORDO/Orphanet_1458|C1838180|Codas Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C158951|http://www.orpha.net/ORDO/Orphanet_1439|C0795843|Ring Chromosome 12
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75469|http://www.orpha.net/ORDO/Orphanet_819|C0795864|Smith-Magenis Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35625|http://www.orpha.net/ORDO/Orphanet_71862|C0854723|Retinal Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128391|http://www.orpha.net/ORDO/Orphanet_128|C0012561|Diphyllobothriasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34541|http://www.orpha.net/ORDO/Orphanet_1679|C0012546|Diphtheria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9231|http://www.orpha.net/ORDO/Orphanet_79140|C0007129|Merkel Cell Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9385|http://www.orpha.net/ORDO/Orphanet_217071|C0007134|Renal Cell Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99248|http://www.orpha.net/ORDO/Orphanet_224|C0158981|Neonatal Diabetes Mellitus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84579|http://www.orpha.net/ORDO/Orphanet_731|C0085548|Autosomal Recessive Polycystic Kidney Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84571|http://www.orpha.net/ORDO/Orphanet_247|C0349788|Arrhythmogenic Right Ventricular Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85015|http://www.orpha.net/ORDO/Orphanet_707|C0032064|Plague
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85014|http://www.orpha.net/ORDO/Orphanet_2897|C0032027|Pityriasis Rubra Pilaris
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3330|http://www.orpha.net/ORDO/Orphanet_304055|C0032019|Pituitary Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3329|http://www.orpha.net/ORDO/Orphanet_99408|C0032000|Pituitary Adenoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26853|http://www.orpha.net/ORDO/Orphanet_95613|C0032001|Pituitary Apoplexy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8388|http://www.orpha.net/ORDO/Orphanet_314753|C0854486|Secretory Adenoma of Pituitary
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26925|http://www.orpha.net/ORDO/Orphanet_732|C0085655|Polymyositis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9233|http://www.orpha.net/ORDO/Orphanet_86834|C0349639|Juvenile Myelomonocytic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4663|http://www.orpha.net/ORDO/Orphanet_86854|C0349632|Splenic Marginal Zone B-Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7401|http://www.orpha.net/ORDO/Orphanet_300878|C0349633|Hairy Cell Leukemia Variant
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142083|http://www.orpha.net/ORDO/Orphanet_35656|C1843920|Coenzyme Q10 Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131657|http://www.orpha.net/ORDO/Orphanet_93583|C1268935|Congenital Thrombotic Thrombocytopenic Purpura
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126870|http://www.orpha.net/ORDO/Orphanet_79321|C1832736|Congenital Disorder of Glycosylation Type Id
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98923|http://www.orpha.net/ORDO/Orphanet_93928|C0014588|Epispadias
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3020|http://www.orpha.net/ORDO/Orphanet_101998|C0014544|Epilepsy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79777|http://www.orpha.net/ORDO/Orphanet_95455|C0014518|Toxic Epidermal Necrolysis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126877|http://www.orpha.net/ORDO/Orphanet_302|C0014522|Epidermodysplasia Verruciformis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3017|http://www.orpha.net/ORDO/Orphanet_301|C0014474|Ependymoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142894|http://www.orpha.net/ORDO/Orphanet_65283|C1832916|Timothy Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75487|http://www.orpha.net/ORDO/Orphanet_702|C0205711|Pelizaeus-Merzbacher Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3698|http://www.orpha.net/ORDO/Orphanet_2807|C0205770|Choroid Plexus Papilloma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3696|http://www.orpha.net/ORDO/Orphanet_251618|C0205768|Subependymal Giant Cell Astrocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112116|http://www.orpha.net/ORDO/Orphanet_3165|C0264005|Eosinophilic Fasciitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129319|http://www.orpha.net/ORDO/Orphanet_46484|C0028945|Oligodendroglioma, NOS
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122796|http://www.orpha.net/ORDO/Orphanet_357502|C3496337|Idiopathic Nephrotic Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C155747|http://www.orpha.net/ORDO/Orphanet_79189|C1832200|Peroxisome Biogenesis Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4675|http://www.orpha.net/ORDO/Orphanet_157826|C0376319|Congenital Epulis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122659|http://www.orpha.net/ORDO/Orphanet_99938|C1832274|Charcot-Marie-Tooth Disease Type 2D
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115207|http://www.orpha.net/ORDO/Orphanet_3319|C1327915|Congenital Amegakaryocytic Thrombocytopenia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4674|http://www.orpha.net/ORDO/Orphanet_79467|C0362030|Verrucous Epidermal Nevus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162696|http://www.orpha.net/ORDO/Orphanet_71290|C1832388|Familial Platelet Disorder with Associated Myeloid Malignancy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87072|http://www.orpha.net/ORDO/Orphanet_1199|C0014850|Esophageal Atresia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3028|http://www.orpha.net/ORDO/Orphanet_70482|C0014859|Esophageal Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84699|http://www.orpha.net/ORDO/Orphanet_930|C0014848|Esophageal Achalasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125383|http://www.orpha.net/ORDO/Orphanet_90026|C0014805|Primary Erythermalgia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C148318|http://www.orpha.net/ORDO/Orphanet_265|C1832567|Limb-Girdle Muscular Dystrophy Type 1C
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C156424|http://www.orpha.net/ORDO/Orphanet_90045|C0342705|Hereditary Folate Malabsorption
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142806|http://www.orpha.net/ORDO/Orphanet_859|C0342701|Transcobalamin II Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98683|http://www.orpha.net/ORDO/Orphanet_67046|C0342728|3-Methylglutaconic Aciduria Type 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84890|http://www.orpha.net/ORDO/Orphanet_309025|C0342731|Mevalonate Kinase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85222|http://www.orpha.net/ORDO/Orphanet_3440|C3266898|Waardenburg Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120372|http://www.orpha.net/ORDO/Orphanet_169615|C0342544|Idiopathic Central Precocious Puberty
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113217|http://www.orpha.net/ORDO/Orphanet_759|C0342543|Central Precocious Puberty
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34854|http://www.orpha.net/ORDO/Orphanet_648|C0028326|Noonan Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7137|http://www.orpha.net/ORDO/Orphanet_66646|C1136033|Cutaneous Mastocytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85237|http://www.orpha.net/ORDO/Orphanet_8|C3266843|47,XYY Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34852|http://www.orpha.net/ORDO/Orphanet_2700|C0028271|Noma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125694|http://www.orpha.net/ORDO/Orphanet_2882|C0342907|Sitosterolemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6569|http://www.orpha.net/ORDO/Orphanet_2665|C1332965|Congenital Mesoblastic Nephroma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133086|http://www.orpha.net/ORDO/Orphanet_159|C0342791|Carnitine-Acylcarnitine Translocase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3058|http://www.orpha.net/ORDO/Orphanet_360|C1621958|Glioblastoma Multiforme
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98921|http://www.orpha.net/ORDO/Orphanet_1910|C0342200|Endemic Cretinism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34586|http://www.orpha.net/ORDO/Orphanet_199323|C0014236|Endophthalmitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84940|http://www.orpha.net/ORDO/Orphanet_534|C0028860|Oculocerebrorenal Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3014|http://www.orpha.net/ORDO/Orphanet_137820|C0014175|Endometriosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3011|http://www.orpha.net/ORDO/Orphanet_876|C0014145|Yolk Sac Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98922|http://www.orpha.net/ORDO/Orphanet_2022|C0014117|Endocardial Fibroelastosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126747|http://www.orpha.net/ORDO/Orphanet_1762|C1846058|Lubs X-Linked Mental Retardation Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118844|http://www.orpha.net/ORDO/Orphanet_98813|C1846006|Hypohidrotic Ectodermal Dysplasia with Immune Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131426|http://www.orpha.net/ORDO/Orphanet_90790|C0342474|Congenital Lipoid Adrenal Hyperplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123231|http://www.orpha.net/ORDO/Orphanet_320|C0342488|Syndrome of Apparent Mineralocorticoid Excess
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4385|http://www.orpha.net/ORDO/Orphanet_672|C0342418|Hypothalamic Hamartoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3008|http://www.orpha.net/ORDO/Orphanet_296|C0014084|Enchondromatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C132055|http://www.orpha.net/ORDO/Orphanet_95506|C0342410|Autoimmune Hypophysitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34578|http://www.orpha.net/ORDO/Orphanet_83597|C0014059|Acute Disseminated Encephalomyelitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34577|http://www.orpha.net/ORDO/Orphanet_79139|C0014057|Japanese Encephalitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26760|http://www.orpha.net/ORDO/Orphanet_97275|C0014038|Encephalitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26761|http://www.orpha.net/ORDO/Orphanet_83600|C0014040|Encephalitis Lethargica
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7085|http://www.orpha.net/ORDO/Orphanet_104076|C0920305|Leiomyosarcoma of Small Intestine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121141|http://www.orpha.net/ORDO/Orphanet_52901|C0342386|Follicle Stimulating Hormone Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85035|http://www.orpha.net/ORDO/Orphanet_238624|C0033845|Pseudotumor Cerebri
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85036|http://www.orpha.net/ORDO/Orphanet_758|C0033847|Pseudoxanthoma Elasticum
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26867|http://www.orpha.net/ORDO/Orphanet_482|C0033838|Kimura Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3345|http://www.orpha.net/ORDO/Orphanet_26790|C0033822|Pseudomyxoma Peritonei
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85034|http://www.orpha.net/ORDO/Orphanet_444916|C0033805|Pseudohypoaldosteronism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99027|http://www.orpha.net/ORDO/Orphanet_97593|C0033806|Pseudohypoparathyroidism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85033|http://www.orpha.net/ORDO/Orphanet_2970|C0033770|Prune Belly Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34482|http://www.orpha.net/ORDO/Orphanet_1160|C0008732|Chylous Ascites
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2950|http://www.orpha.net/ORDO/Orphanet_68335|C0008625|Chromosome Aberration
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84559|http://www.orpha.net/ORDO/Orphanet_367|C1563715|Andersen Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26721|http://www.orpha.net/ORDO/Orphanet_98879|C0008533|Hemophilia B
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129872|http://www.orpha.net/ORDO/Orphanet_2896|C1970431|Pitt-Hopkins Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35111|http://www.orpha.net/ORDO/Orphanet_280892|C0008526|Choroiditis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34469|http://www.orpha.net/ORDO/Orphanet_180|C0008525|Choroideremia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112840|http://www.orpha.net/ORDO/Orphanet_95409|C0151467|Addisonian Crisis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120083|http://www.orpha.net/ORDO/Orphanet_144|C1333990|Hereditary Nonpolyposis Colorectal Cancer
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8459|http://www.orpha.net/ORDO/Orphanet_86882|C1333984|Hepatosplenic T-Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C119049|http://www.orpha.net/ORDO/Orphanet_793|C0263859|Synovitis, Acne, Pustulosis, Hyperostosis, and Osteitis Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27510|http://www.orpha.net/ORDO/Orphanet_2122|C1367420|Kaposiform Hemangioendothelioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9281|http://www.orpha.net/ORDO/Orphanet_86902|C1260325|Follicular Dendritic Cell Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6921|http://www.orpha.net/ORDO/Orphanet_86897|C1260327|Langerhans Cell Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9282|http://www.orpha.net/ORDO/Orphanet_86900|C1260326|Interdigitating Dendritic Cell Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112208|http://www.orpha.net/ORDO/Orphanet_139402|C3541994|Drug Hypersensitivity Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7009|http://www.orpha.net/ORDO/Orphanet_91352|C1333813|Central Nervous System Germinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4665|http://www.orpha.net/ORDO/Orphanet_98282|C1959632|Plasma Cell Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84672|http://www.orpha.net/ORDO/Orphanet_1675|C1959620|Dihydropyrimidine Dehydrogenase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C134954|http://www.orpha.net/ORDO/Orphanet_139515|C1970011|Charcot-Marie-Tooth Disease Type 4J
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87069|http://www.orpha.net/ORDO/Orphanet_2014|C0008925|Cleft Palate
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75020|http://www.orpha.net/ORDO/Orphanet_1452|C0008928|Cleidocranial Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84775|http://www.orpha.net/ORDO/Orphanet_681|C0238358|Hypokalemic Periodic Paralysis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123429|http://www.orpha.net/ORDO/Orphanet_682|C0238357|Hyperkalemic Periodic Paralysis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84630|http://www.orpha.net/ORDO/Orphanet_184|C0008029|Cherubism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95436|http://www.orpha.net/ORDO/Orphanet_676|C0238339|Hereditary Pancreatitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7729|http://www.orpha.net/ORDO/Orphanet_398058|C0238348|Squamous Cell Carcinoma of the Penis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35288|http://www.orpha.net/ORDO/Orphanet_98852|C0238378|Desquamative Interstitial Pneumonia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131683|http://www.orpha.net/ORDO/Orphanet_98871|C0238478|Transient Erythroblastopenia of Childhood
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3877|http://www.orpha.net/ORDO/Orphanet_363483|C0238451|Teratoma of Testis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3879|http://www.orpha.net/ORDO/Orphanet_1332|C0238462|Medullary Carcinoma of Thyroid
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3878|http://www.orpha.net/ORDO/Orphanet_142|C0238461|Anaplastic Thyroid Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4035|http://www.orpha.net/ORDO/Orphanet_146|C0238463|Thyroid Papillary Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131187|http://www.orpha.net/ORDO/Orphanet_763|C0238402|Pycnodysostosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85061|http://www.orpha.net/ORDO/Orphanet_167635|C0263390|Scleromyxedema
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C114354|http://www.orpha.net/ORDO/Orphanet_231111|C0263591|Drug Induced Lupus Erythematosus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123813|http://www.orpha.net/ORDO/Orphanet_1555|C1852406|Beare-Stevenson Cutis Gyrata Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3924|http://www.orpha.net/ORDO/Orphanet_64755|C0263579|Pigmented Hairy Epidermal Nevus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3093|http://www.orpha.net/ORDO/Orphanet_448|C0684275|Hemophilia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35882|http://www.orpha.net/ORDO/Orphanet_288|C0013902|Hereditary Elliptocytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84684|http://www.orpha.net/ORDO/Orphanet_289|C0013903|Ellis-Van Creveld Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7700|http://www.orpha.net/ORDO/Orphanet_213504|C0948216|Ovarian Adenocarcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6985|http://www.orpha.net/ORDO/Orphanet_99925|C0008493|Invasive Hydatidiform Mole
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2946|http://www.orpha.net/ORDO/Orphanet_55880|C0008479|Chondrosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2947|http://www.orpha.net/ORDO/Orphanet_178|C0008487|Chordoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84633|http://www.orpha.net/ORDO/Orphanet_306715|C0008489|Chorea
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84632|http://www.orpha.net/ORDO/Orphanet_93442|C0008445|Chondrodysplasia Punctata
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116380|http://www.orpha.net/ORDO/Orphanet_1451|C0409818|Chronic Infantile Neurological Cutaneous and Articular Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3342|http://www.orpha.net/ORDO/Orphanet_2965|C0033375|Prolactinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7217|http://www.orpha.net/ORDO/Orphanet_178540|C1333171|Primary Cutaneous Follicle Center Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34951|http://www.orpha.net/ORDO/Orphanet_740|C0033300|Progeria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157552|http://www.orpha.net/ORDO/Orphanet_182090|C2973725|Pulmonary Arterial Hypertension
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122811|http://www.orpha.net/ORDO/Orphanet_36387|C3502809|Generalized Epilepsy with Febrile Seizures Plus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84816|http://www.orpha.net/ORDO/Orphanet_2382|C0238111|Lennox-Gastaut Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3867|http://www.orpha.net/ORDO/Orphanet_180242|C0238122|Fallopian Tube Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35287|http://www.orpha.net/ORDO/Orphanet_2133|C0238159|Hemoglobin E Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129864|http://www.orpha.net/ORDO/Orphanet_99949|C1866636|Charcot-Marie-Tooth Disease Type 4C
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67235|http://www.orpha.net/ORDO/Orphanet_352540|C1274103|Oncogenic Osteomalacia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84628|http://www.orpha.net/ORDO/Orphanet_909|C0238052|Cerebrotendinous Xanthomatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7727|http://www.orpha.net/ORDO/Orphanet_93558|C0238239|Light Chain Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84896|http://www.orpha.net/ORDO/Orphanet_578|C0238286|Mucolipidosis Type IV
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84704|http://www.orpha.net/ORDO/Orphanet_269|C0238288|Facioscapulohumeral Muscular Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4828|http://www.orpha.net/ORDO/Orphanet_171|C0566602|Primary Sclerosing Cholangitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C132826|http://www.orpha.net/ORDO/Orphanet_139518|C1866784|Distal Hereditary Motor Neuronopathy Type I
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3868|http://www.orpha.net/ORDO/Orphanet_44890|C0238198|Gastrointestinal Stromal Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7724|http://www.orpha.net/ORDO/Orphanet_423957|C0238196|Carcinoma of Small Intestine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116776|http://www.orpha.net/ORDO/Orphanet_90002|C0409999|Undifferentiated Connective Tissue Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36077|http://www.orpha.net/ORDO/Orphanet_99978|C0206702|Klatskin Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3796|http://www.orpha.net/ORDO/Orphanet_251576|C0206726|Gliosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7368|http://www.orpha.net/ORDO/Orphanet_91414|C0206711|Pilomatrixoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3787|http://www.orpha.net/ORDO/Orphanet_251558|C0206715|Neuroepithelial Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3789|http://www.orpha.net/ORDO/Orphanet_1957|C0206717|Olfactory Neuroblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3788|http://www.orpha.net/ORDO/Orphanet_251949|C0206716|Ganglioglioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3791|http://www.orpha.net/ORDO/Orphanet_73256|C0206719|Central Neurocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3790|http://www.orpha.net/ORDO/Orphanet_251877|C0206718|Ganglioneuroblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3808|http://www.orpha.net/ORDO/Orphanet_69077|C0206743|Rhabdoid Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3800|http://www.orpha.net/ORDO/Orphanet_157791|C0206732|Epithelioid Hemangioendothelioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3801|http://www.orpha.net/ORDO/Orphanet_252054|C0206734|Hemangioblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7977|http://www.orpha.net/ORDO/Orphanet_424046|C0279661|Acinar Cell Carcinoma of Pancreas
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4029|http://www.orpha.net/ORDO/Orphanet_213772|C0279672|Cervical Adenocarcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4028|http://www.orpha.net/ORDO/Orphanet_213767|C0279671|Cervical Squamous Cell Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4025|http://www.orpha.net/ORDO/Orphanet_99976|C0279628|Adenocarcinoma of Esophagus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4024|http://www.orpha.net/ORDO/Orphanet_99977|C0279626|Squamous Cell Carcinoma of Esophagus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84713|http://www.orpha.net/ORDO/Orphanet_1915|C0015923|Fetal Alcohol Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85199|http://www.orpha.net/ORDO/Orphanet_863|C0040896|Trichinellosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3250|http://www.orpha.net/ORDO/Orphanet_98834|C1879321|Acute Myeloid Leukemia (AML-M2)
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84533|http://www.orpha.net/ORDO/Orphanet_963|C0001206|Acromegaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4033|http://www.orpha.net/ORDO/Orphanet_319276|C0279702|Conventional (Clear Cell) Renal Cell Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98999|http://www.orpha.net/ORDO/Orphanet_137902|C0338502|Optic Nerve Hypoplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85063|http://www.orpha.net/ORDO/Orphanet_3157|C0338503|Septo-Optic Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4797|http://www.orpha.net/ORDO/Orphanet_65250|C0520720|Tarlov Cyst
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131868|http://www.orpha.net/ORDO/Orphanet_33067|C0265295|Metaphyseal Chondrodysplasia, Jansen Type
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2851|http://www.orpha.net/ORDO/Orphanet_310050|C0001175|Acquired Immunodeficiency Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C130991|http://www.orpha.net/ORDO/Orphanet_2333|C0265291|Kenny-Caffey Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124844|http://www.orpha.net/ORDO/Orphanet_239|C0265286|Dyggve-Melchior-Clausen Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84742|http://www.orpha.net/ORDO/Orphanet_216675|C0040761|Transposition of Great Vessels
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125594|http://www.orpha.net/ORDO/Orphanet_485|C0265279|Kniest Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99099|http://www.orpha.net/ORDO/Orphanet_87|C0001193|Apert Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125592|http://www.orpha.net/ORDO/Orphanet_392|C0265264|Holt-Oram Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84712|http://www.orpha.net/ORDO/Orphanet_47612|C0015773|Felty Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124852|http://www.orpha.net/ORDO/Orphanet_531|C0265219|Miller-Dieker Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98978|http://www.orpha.net/ORDO/Orphanet_564|C0265215|Meckel-Gruber Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125599|http://www.orpha.net/ORDO/Orphanet_3447|C0265210|Weaver Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85048|http://www.orpha.net/ORDO/Orphanet_3107|C0265205|Robinow Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125488|http://www.orpha.net/ORDO/Orphanet_808|C0265202|Seckel Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118786|http://www.orpha.net/ORDO/Orphanet_294963|C0265259|Popliteal Pterygium Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84643|http://www.orpha.net/ORDO/Orphanet_192|C0265252|Coffin-Lowry Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84740|http://www.orpha.net/ORDO/Orphanet_2549|C0265240|Goldenhar Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98908|http://www.orpha.net/ORDO/Orphanet_2052|C0265233|Cryptophthalmos Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128115|http://www.orpha.net/ORDO/Orphanet_560|C0265235|Marshall Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98983|http://www.orpha.net/ORDO/Orphanet_107|C0265234|Branchio-oto-renal Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98931|http://www.orpha.net/ORDO/Orphanet_2053|C0265224|Freeman Sheldon Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84987|http://www.orpha.net/ORDO/Orphanet_672|C0265220|Pallister-Hall Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34345|http://www.orpha.net/ORDO/Orphanet_15|C0001080|Achondroplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84527|http://www.orpha.net/ORDO/Orphanet_932|C0001079|Achondrogenesis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7135|http://www.orpha.net/ORDO/Orphanet_370334|C0279980|Extra-Osseous Ewing's Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157122|http://www.orpha.net/ORDO/Orphanet_127|C0265339|Borjeson-Forssman-Lehmann Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35321|http://www.orpha.net/ORDO/Orphanet_1465|C0265338|Coffin-Siris Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84986|http://www.orpha.net/ORDO/Orphanet_2309|C0265334|Pachyonychia Congenita
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62505|http://www.orpha.net/ORDO/Orphanet_84|C0015625|Fanconi Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34605|http://www.orpha.net/ORDO/Orphanet_99906|C0015634|Farmer's Lung
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3939|http://www.orpha.net/ORDO/Orphanet_109|C0265326|Bannayan-Riley-Ruvalcaba Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85226|http://www.orpha.net/ORDO/Orphanet_3449|C0265313|Weill-Marchesani Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117308|http://www.orpha.net/ORDO/Orphanet_391504|C0495465|Transient Neonatal Myasthenia Gravis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35255|http://www.orpha.net/ORDO/Orphanet_380|C0265306|Greig Cephalopolysyndactyly Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126560|http://www.orpha.net/ORDO/Orphanet_240|C0265309|Leri-Weill Dyschondrosteosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131133|http://www.orpha.net/ORDO/Orphanet_3152|C0265301|Sclerosteosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98927|http://www.orpha.net/ORDO/Orphanet_1912|C0265372|Fetal Hydantoin Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75100|http://www.orpha.net/ORDO/Orphanet_138|C0265354|CHARGE Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128191|http://www.orpha.net/ORDO/Orphanet_33001|C0265345|Lymphedema-Distichiasis Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84676|http://www.orpha.net/ORDO/Orphanet_508|C0265344|Donohue Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131001|http://www.orpha.net/ORDO/Orphanet_782|C0265341|Rieger Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84611|http://www.orpha.net/ORDO/Orphanet_141|C0206307|Canavan Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2862|http://www.orpha.net/ORDO/Orphanet_824|C0001815|Primary Myelofibrosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116593|http://www.orpha.net/ORDO/Orphanet_1935|C0270855|Early Myoclonic Encephalopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85041|http://www.orpha.net/ORDO/Orphanet_310|C0270857|Reflex Epilepsy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84796|http://www.orpha.net/ORDO/Orphanet_307|C0270853|Juvenile Myoclonic Epilepsy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84554|http://www.orpha.net/ORDO/Orphanet_85447|C0206245|Amyloid Neuropathies, Familial
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C127160|http://www.orpha.net/ORDO/Orphanet_235936|C3713420|Familial Hyperaldosteronism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4009|http://www.orpha.net/ORDO/Orphanet_91349|C0338078|Non-Functioning Pituitary Gland Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75016|http://www.orpha.net/ORDO/Orphanet_199|C0270972|Cornelia De Lange Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98985|http://www.orpha.net/ORDO/Orphanet_98486|C0270984|Metabolic Myopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34975|http://www.orpha.net/ORDO/Orphanet_29207|C0035012|Reiter Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6339|http://www.orpha.net/ORDO/Orphanet_213620|C0338113|Uterine Corpus Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84942|http://www.orpha.net/ORDO/Orphanet_270|C0270952|Oculopharyngeal Muscular Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27912|http://www.orpha.net/ORDO/Orphanet_86846|C1292776|Therapy-Related Acute Myeloid Leukemia and Myelodysplastic Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6867|http://www.orpha.net/ORDO/Orphanet_86841|C1292779|Myelodysplastic Syndrome with Isolated del(5q)
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4345|http://www.orpha.net/ORDO/Orphanet_98274|C1292778|Chronic Myeloproliferative Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9289|http://www.orpha.net/ORDO/Orphanet_86845|C1292773|Acute Myeloid Leukemia with Multilineage Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34360|http://www.orpha.net/ORDO/Orphanet_418|C0001627|Adrenal Hyperplasia, Congenital
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26690|http://www.orpha.net/ORDO/Orphanet_101954|C0001621|Adrenal Gland Diseases
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84657|http://www.orpha.net/ORDO/Orphanet_208650|C2316212|Cryopyrin-Associated Periodic Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6915|http://www.orpha.net/ORDO/Orphanet_48686|C1292753|Primary Effusion Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4350|http://www.orpha.net/ORDO/Orphanet_163892|C0338430|Limbic Encephalitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84719|http://www.orpha.net/ORDO/Orphanet_282|C0338451|Frontotemporal Dementia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113397|http://www.orpha.net/ORDO/Orphanet_71272|C0338465|Sandifer Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84540|http://www.orpha.net/ORDO/Orphanet_36397|C0001529|Adiposis Dolorosa
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53457|http://www.orpha.net/ORDO/Orphanet_321|C0206641|Osteochondromatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121932|http://www.orpha.net/ORDO/Orphanet_363976|C0206638|Giant Cell Tumor of Bone
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8973|http://www.orpha.net/ORDO/Orphanet_213711|C0206630|Endometrial Stromal Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3758|http://www.orpha.net/ORDO/Orphanet_54272|C0206669|Hepatocellular Adenoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34357|http://www.orpha.net/ORDO/Orphanet_454718|C0001519|Adie Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3753|http://www.orpha.net/ORDO/Orphanet_182127|C0206660|Germinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3716|http://www.orpha.net/ORDO/Orphanet_251870|C0206663|Primitive Neuroectodermal Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84792|http://www.orpha.net/ORDO/Orphanet_98979|C1096100|Iridocorneal Endothelial Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8971|http://www.orpha.net/ORDO/Orphanet_99757|C0206656|Embryonal Rhabdomyosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3749|http://www.orpha.net/ORDO/Orphanet_99756|C0206655|Alveolar Rhabdomyosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3750|http://www.orpha.net/ORDO/Orphanet_163699|C0206657|Alveolar Soft Part Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3752|http://www.orpha.net/ORDO/Orphanet_180226|C0206659|Embryonal Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3745|http://www.orpha.net/ORDO/Orphanet_97338|C0206651|Clear Cell Sarcoma of Soft Tissue
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9325|http://www.orpha.net/ORDO/Orphanet_1501|C0206686|Adrenocortical Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3765|http://www.orpha.net/ORDO/Orphanet_168816|C0206680|Cystic Mesothelioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3247|http://www.orpha.net/ORDO/Orphanet_52688|C3463824|Myelodysplastic Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4436|http://www.orpha.net/ORDO/Orphanet_70567|C0206698|Cholangiocarcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3728|http://www.orpha.net/ORDO/Orphanet_449|C0206624|Hepatoblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3732|http://www.orpha.net/ORDO/Orphanet_64741|C0206629|Pulmonary Blastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C114471|http://www.orpha.net/ORDO/Orphanet_158061|C1096155|Macrophage Activation Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26689|http://www.orpha.net/ORDO/Orphanet_101959|C0001403|Addison Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3414|http://www.orpha.net/ORDO/Orphanet_100087|C0040136|Thyroid Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4753|http://www.orpha.net/ORDO/Orphanet_86852|C0475801|B-Cell Prolymphocytic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3411|http://www.orpha.net/ORDO/Orphanet_99867|C0040100|Thymoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6975|http://www.orpha.net/ORDO/Orphanet_319298|C1306837|Papillary Renal Cell Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98823|http://www.orpha.net/ORDO/Orphanet_99981|C0475715|Apnea of Prematurity
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3407|http://www.orpha.net/ORDO/Orphanet_3318|C0040028|Essential Thrombocythemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35070|http://www.orpha.net/ORDO/Orphanet_36258|C0040021|Thromboangiitis Obliterans
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61249|http://www.orpha.net/ORDO/Orphanet_849|C0040015|Thrombasthenia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84800|http://www.orpha.net/ORDO/Orphanet_33543|C0206085|Kleine-Levin Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128378|http://www.orpha.net/ORDO/Orphanet_139417|C0270627|Acute Transverse Myelitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84711|http://www.orpha.net/ORDO/Orphanet_466|C0206042|Fatal Familial Insomnia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9145|http://www.orpha.net/ORDO/Orphanet_668|C0029463|Osteosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34880|http://www.orpha.net/ORDO/Orphanet_399158|C0029445|Bone Necrosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26840|http://www.orpha.net/ORDO/Orphanet_2781|C0029454|Osteopetrosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34879|http://www.orpha.net/ORDO/Orphanet_399319|C0029429|Osteochondrosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34878|http://www.orpha.net/ORDO/Orphanet_2764|C0029421|Osteochondritis Dissecans
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26837|http://www.orpha.net/ORDO/Orphanet_666|C0029434|Osteogenesis Imperfecta
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3294|http://www.orpha.net/ORDO/Orphanet_58040|C0029417|Osteoblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85023|http://www.orpha.net/ORDO/Orphanet_248095|C0029411|Primary Hypertrophic Osteoarthropathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128342|http://www.orpha.net/ORDO/Orphanet_178475|C1306794|Wound Botulism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3718|http://www.orpha.net/ORDO/Orphanet_893|C0206115|WAGR Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84802|http://www.orpha.net/ORDO/Orphanet_157823|C0270707|Kluver-Bucy Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70646|http://www.orpha.net/ORDO/Orphanet_90290|C0206138|CREST Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84927|http://www.orpha.net/ORDO/Orphanet_35069|C0270724|Infantile Neuroaxonal Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84545|http://www.orpha.net/ORDO/Orphanet_58|C0270726|Alexander Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3720|http://www.orpha.net/ORDO/Orphanet_98841|C0206180|Ki-1+ Anaplastic Large Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3721|http://www.orpha.net/ORDO/Orphanet_98842|C0206182|Lymphomatoid Papulosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35080|http://www.orpha.net/ORDO/Orphanet_454750|C0040588|Tracheoesophageal Fistula
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85196|http://www.orpha.net/ORDO/Orphanet_3347|C0040587|Tracheobronchomegaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128335|http://www.orpha.net/ORDO/Orphanet_99748|C0343528|Pontiac Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50503|http://www.orpha.net/ORDO/Orphanet_858|C0040560|Congenital Toxoplasmosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85194|http://www.orpha.net/ORDO/Orphanet_3343|C0040553|Toxocariasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84705|http://www.orpha.net/ORDO/Orphanet_329|C0015523|Hereditary Factor XI Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131740|http://www.orpha.net/ORDO/Orphanet_330|C0015526|Factor XII Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98941|http://www.orpha.net/ORDO/Orphanet_331|C0015530|Hereditary Factor XIII Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131631|http://www.orpha.net/ORDO/Orphanet_327|C0015503|Factor VII Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131632|http://www.orpha.net/ORDO/Orphanet_328|C0015519|Factor X Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142080|http://www.orpha.net/ORDO/Orphanet_268|C1850889|Limb-Girdle Muscular Dystrophy Type 2B
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98938|http://www.orpha.net/ORDO/Orphanet_326|C0015499|Hereditary Factor V Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84703|http://www.orpha.net/ORDO/Orphanet_1214|C0015458|Facial Hemiatrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3030|http://www.orpha.net/ORDO/Orphanet_101950|C0015414|Eye Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85193|http://www.orpha.net/ORDO/Orphanet_64686|C0040381|Tolosa-Hunt Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5183|http://www.orpha.net/ORDO/Orphanet_321|C0015306|Hereditary Multiple Exostoses
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113206|http://www.orpha.net/ORDO/Orphanet_181419|C0020595|Hypoaldosteronism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79597|http://www.orpha.net/ORDO/Orphanet_79365|C0020555|Hypertrichosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3123|http://www.orpha.net/ORDO/Orphanet_181399|C0020550|Hyperthyroidism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48259|http://www.orpha.net/ORDO/Orphanet_181408|C0020502|Hyperparathyroidism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123158|http://www.orpha.net/ORDO/Orphanet_416|C0020501|Primary Hyperoxaluria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98958|http://www.orpha.net/ORDO/Orphanet_2299|C0152419|Interrupted Aortic Arch
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87110|http://www.orpha.net/ORDO/Orphanet_2913|C0152427|Polydactyly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98907|http://www.orpha.net/ORDO/Orphanet_63260|C0152426|Craniorachischisis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120193|http://www.orpha.net/ORDO/Orphanet_753|C3669122|5-Alpha-Reductase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84645|http://www.orpha.net/ORDO/Orphanet_1310|C0020497|Congenital Cortical Hyperostosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84772|http://www.orpha.net/ORDO/Orphanet_77296|C0020494|Hyperostosis Frontalis Interna
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34707|http://www.orpha.net/ORDO/Orphanet_181422|C0020473|Hyperlipidemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84768|http://www.orpha.net/ORDO/Orphanet_401|C0020413|Hymenolepiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62578|http://www.orpha.net/ORDO/Orphanet_188|C0343084|Capillary Leak Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37194|http://www.orpha.net/ORDO/Orphanet_300903|C1332078|ALK-Negative Anaplastic Large Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85043|http://www.orpha.net/ORDO/Orphanet_773|C0034960|Refsum Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87145|http://www.orpha.net/ORDO/Orphanet_98618|C0034951|Refractive Error
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84651|http://www.orpha.net/ORDO/Orphanet_1463|C0009995|Cor Triatriatum
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84767|http://www.orpha.net/ORDO/Orphanet_1041|C0020305|Hydrops Fetalis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85064|http://www.orpha.net/ORDO/Orphanet_140896|C1175175|Severe Acute Respiratory Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34974|http://www.orpha.net/ORDO/Orphanet_98421|C0034902|Pure Red Cell Aplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116719|http://www.orpha.net/ORDO/Orphanet_255|C1851920|Dopa-Responsive Dystonia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118780|http://www.orpha.net/ORDO/Orphanet_256|C1851945|Autosomal Dominant Torsion Dystonia 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98876|http://www.orpha.net/ORDO/Orphanet_2185|C0020256|Congenital Hydrocephalus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84766|http://www.orpha.net/ORDO/Orphanet_330058|C0020241|Hydroa Vacciniforme
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3110|http://www.orpha.net/ORDO/Orphanet_99927|C0020217|Hydatidiform Mole
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98949|http://www.orpha.net/ORDO/Orphanet_2177|C0020225|Hydranencephaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82342|http://www.orpha.net/ORDO/Orphanet_399|C0020179|Huntington Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115124|http://www.orpha.net/ORDO/Orphanet_443079|C0730328|Central Serous Chorioretinopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4921|http://www.orpha.net/ORDO/Orphanet_71213|C0730304|Cavernous Hemangioma of Retina
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7528|http://www.orpha.net/ORDO/Orphanet_86886|C0020981|Angioimmunoblastic Lymphadenopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3513|http://www.orpha.net/ORDO/Orphanet_70482|C0152018|Esophageal Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116363|http://www.orpha.net/ORDO/Orphanet_838|C2717757|Susac Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101362|http://www.orpha.net/ORDO/Orphanet_3380|C0152096|Complete Trisomy 18 Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101223|http://www.orpha.net/ORDO/Orphanet_3378|C0152095|Patau Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118847|http://www.orpha.net/ORDO/Orphanet_83419|C0152109|Juvenile Spinal Muscular Atrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98894|http://www.orpha.net/ORDO/Orphanet_2248|C0152101|Hypoplastic Left Heart Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84776|http://www.orpha.net/ORDO/Orphanet_79354|C0020757|Ichthyosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97119|http://www.orpha.net/ORDO/Orphanet_275766|C0152171|Idiopathic Pulmonary Hypertension
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61270|http://www.orpha.net/ORDO/Orphanet_576|C0020725|Mucolipidosis Type II
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35815|http://www.orpha.net/ORDO/Orphanet_86850|C0152276|Granulocytic Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3517|http://www.orpha.net/ORDO/Orphanet_98844|C0152266|Mixed Cellularity Hodgkin Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3518|http://www.orpha.net/ORDO/Orphanet_98843|C0152268|Nodular Sclerosis Classical Hodgkin Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84528|http://www.orpha.net/ORDO/Orphanet_49382|C0152200|Achromatopsia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124549|http://www.orpha.net/ORDO/Orphanet_63259|C0152234|Iniencephaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83009|http://www.orpha.net/ORDO/Orphanet_593|C2678065|Myofibrillar Myopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111905|http://www.orpha.net/ORDO/Orphanet_363999|C0455988|Non-Immune Hydrops Fetalis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111904|http://www.orpha.net/ORDO/Orphanet_364013|C0455990|Immune Hydrops Fetalis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26800|http://www.orpha.net/ORDO/Orphanet_181396|C0020676|Hypothyroidism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34862|http://www.orpha.net/ORDO/Orphanet_2737|C0029002|Ocular Onchocerciasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34861|http://www.orpha.net/ORDO/Orphanet_2737|C0029001|Onchocerciasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26798|http://www.orpha.net/ORDO/Orphanet_436|C0020630|Hypophosphatasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62591|http://www.orpha.net/ORDO/Orphanet_101957|C0020635|Hypopituitarism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78350|http://www.orpha.net/ORDO/Orphanet_181405|C0020626|Hypoparathyroidism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62605|http://www.orpha.net/ORDO/Orphanet_93573|C2717961|Thrombotic Microangiopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94524|http://www.orpha.net/ORDO/Orphanet_251623|C2986550|Pituicytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50450|http://www.orpha.net/ORDO/Orphanet_67043|C0000880|Acanthamoeba Keratitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9460|http://www.orpha.net/ORDO/Orphanet_191|C0009207|Cockayne Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34963|http://www.orpha.net/ORDO/Orphanet_761|C0034152|Henoch-Sch?nlein Purpura
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78797|http://www.orpha.net/ORDO/Orphanet_54057|C0034155|Thrombotic Thrombocytopenic Purpura
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84642|http://www.orpha.net/ORDO/Orphanet_228123|C0009186|Coccidioidomycosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84913|http://www.orpha.net/ORDO/Orphanet_206970|C0553604|Myotonic Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84525|http://www.orpha.net/ORDO/Orphanet_14|C0000744|Abetalipoproteinemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84773|http://www.orpha.net/ORDO/Orphanet_99739|C0949658|Hypertrophic Familial Cardiomyopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4818|http://www.orpha.net/ORDO/Orphanet_199260|C0553647|Calcifying Aponeurotic Fibroma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79704|http://www.orpha.net/ORDO/Orphanet_95708|C0034013|Precocious Puberty
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120197|http://www.orpha.net/ORDO/Orphanet_243|C0949595|46,XX Gonadal Dysgenesis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120169|http://www.orpha.net/ORDO/Orphanet_217560|C3161105|Neuroendocrine Cell Hyperplasia of Infancy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95504|http://www.orpha.net/ORDO/Orphanet_93616|C3161174|Hemoglobin H Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4913|http://www.orpha.net/ORDO/Orphanet_98063|C0699889|Malignant Female Reproductive System Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7888|http://www.orpha.net/ORDO/Orphanet_104075|C0278803|Adenocarcinoma of Small Intestine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3704|http://www.orpha.net/ORDO/Orphanet_99970|C0205824|Dedifferentiated Liposarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27605|http://www.orpha.net/ORDO/Orphanet_98610|C0009759|Conjunctival Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3705|http://www.orpha.net/ORDO/Orphanet_99969|C0205825|Pleomorphic Liposarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53316|http://www.orpha.net/ORDO/Orphanet_79489|C0205828|Cavernous Lymphangioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9344|http://www.orpha.net/ORDO/Orphanet_251909|C0205898|Pineoblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51302|http://www.orpha.net/ORDO/Orphanet_523|C1708350|Hereditary Leiomyomatosis and Renal Cell Cancer
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45745|http://www.orpha.net/ORDO/Orphanet_137675|C1708371|Histiocytoid Cardiomyopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34971|http://www.orpha.net/ORDO/Orphanet_31205|C0034686|Rat-Bite Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124517|http://www.orpha.net/ORDO/Orphanet_268820|C0009694|Cranial Meningocele
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3714|http://www.orpha.net/ORDO/Orphanet_293202|C0205944|Epithelioid Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7569|http://www.orpha.net/ORDO/Orphanet_99868|C0205969|Thymic Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4817|http://www.orpha.net/ORDO/Orphanet_319|C0553580|Ewing's Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4911|http://www.orpha.net/ORDO/Orphanet_423771|C0699791|Stomach Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34970|http://www.orpha.net/ORDO/Orphanet_781|C0034362|Q Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75006|http://www.orpha.net/ORDO/Orphanet_60030|C2697932|Loeys-Dietz Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85040|http://www.orpha.net/ORDO/Orphanet_3008|C0034341|Pyruvate Carboxylase Deficiency Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2868|http://www.orpha.net/ORDO/Orphanet_69|C0002726|Amyloidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3361|http://www.orpha.net/ORDO/Orphanet_276142|C0036095|Salivary Gland Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35464|http://www.orpha.net/ORDO/Orphanet_33111|C0457002|Granulomatous Slack Skin Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121688|http://www.orpha.net/ORDO/Orphanet_141112|C0266490|Nasal Glial Heterotopia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99056|http://www.orpha.net/ORDO/Orphanet_799|C0266484|Schizencephaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157577|http://www.orpha.net/ORDO/Orphanet_71517|C1868681|Dystonia 12
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111814|http://www.orpha.net/ORDO/Orphanet_79477|C1868679|Griscelli Syndrome Type 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116936|http://www.orpha.net/ORDO/Orphanet_35981|C0266464|Polymicrogyria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103921|http://www.orpha.net/ORDO/Orphanet_48471|C0266463|Lissencephaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7171|http://www.orpha.net/ORDO/Orphanet_514|C0457334|Acute Monoblastic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99010|http://www.orpha.net/ORDO/Orphanet_2842|C1868854|Penoscrotal Transposition
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4313|http://www.orpha.net/ORDO/Orphanet_314419|C0002448|Ameloblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34370|http://www.orpha.net/ORDO/Orphanet_294925|C0002447|Amelia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C161554|http://www.orpha.net/ORDO/Orphanet_91495|C0266568|Persistent Hyperplastic Primary Vitreous
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85027|http://www.orpha.net/ORDO/Orphanet_454706|C0917981|Progressive Muscular Atrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71719|http://www.orpha.net/ORDO/Orphanet_50918|C0398367|Histiocytic Necrotizing Lymphadenitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34369|http://www.orpha.net/ORDO/Orphanet_31740|C0002390|Extrinsic Allergic Alveolitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84723|http://www.orpha.net/ORDO/Orphanet_352|C0016952|Galactosemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85216|http://www.orpha.net/ORDO/Orphanet_488|C0041915|Urachal Cyst
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34368|http://www.orpha.net/ORDO/Orphanet_93616|C0002312|Alpha Thalassemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113169|http://www.orpha.net/ORDO/Orphanet_181368|C3714619|Insulin Resistance Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6966|http://www.orpha.net/ORDO/Orphanet_251912|C0917890|Pineocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3412|http://www.orpha.net/ORDO/Orphanet_100100|C3714644|Thymus Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2936|http://www.orpha.net/ORDO/Orphanet_46724|C0917804|Cerebral Arteriovenous Malformation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125693|http://www.orpha.net/ORDO/Orphanet_1195|C0521802|Congenital Atransferrinemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118788|http://www.orpha.net/ORDO/Orphanet_1243|C0339510|Vitelliform Macular Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129075|http://www.orpha.net/ORDO/Orphanet_65|C0339527|Leber Congenital Amaurosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126328|http://www.orpha.net/ORDO/Orphanet_231178|C0339534|Usher Syndrome Type 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85062|http://www.orpha.net/ORDO/Orphanet_158029|C0036489|Sea-Blue Histiocyte Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72069|http://www.orpha.net/ORDO/Orphanet_90289|C0036420|Localized Scleroderma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72070|http://www.orpha.net/ORDO/Orphanet_90291|C0036421|Systemic Scleroderma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85056|http://www.orpha.net/ORDO/Orphanet_185|C0036400|Scimitar Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84808|http://www.orpha.net/ORDO/Orphanet_104|C0917796|Leber Hereditary Optic Atrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4906|http://www.orpha.net/ORDO/Orphanet_143|C0687150|Parathyroid Gland Adenocarcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123200|http://www.orpha.net/ORDO/Orphanet_655|C0687120|Nephronophthisis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84745|http://www.orpha.net/ORDO/Orphanet_955|C0917715|Hajdu-Cheney Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84587|http://www.orpha.net/ORDO/Orphanet_98895|C0917713|Becker's Muscular Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35008|http://www.orpha.net/ORDO/Orphanet_800|C0036391|Schwartz-Jampel Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35000|http://www.orpha.net/ORDO/Orphanet_1247|C0036323|Schistosomiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117074|http://www.orpha.net/ORDO/Orphanet_157843|C1565172|Trigeminal Autonomic Cephalalgia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34999|http://www.orpha.net/ORDO/Orphanet_3135|C0036310|Scheuermann's Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84701|http://www.orpha.net/ORDO/Orphanet_324|C0002986|Fabry Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101024|http://www.orpha.net/ORDO/Orphanet_1198|C0266190|Congenital Atresia of Colon
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84647|http://www.orpha.net/ORDO/Orphanet_590|C0751882|Congenital Myasthenic Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101025|http://www.orpha.net/ORDO/Orphanet_1203|C0266174|Duodenal Atresia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101027|http://www.orpha.net/ORDO/Orphanet_1201|C0266175|Jejunal Atresia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98828|http://www.orpha.net/ORDO/Orphanet_1201|C0266172|Atresia of the Small Intestine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9348|http://www.orpha.net/ORDO/Orphanet_66661|C0036221|Mast Cell Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9087|http://www.orpha.net/ORDO/Orphanet_33276|C0036220|Kaposi Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34995|http://www.orpha.net/ORDO/Orphanet_797|C0036202|Sarcoidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34383|http://www.orpha.net/ORDO/Orphanet_232|C0002895|Sickle Cell Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36078|http://www.orpha.net/ORDO/Orphanet_1047|C0002896|Sideroblastic Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2872|http://www.orpha.net/ORDO/Orphanet_98826|C0002893|Refractory Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7506|http://www.orpha.net/ORDO/Orphanet_168960|C0002894|Refractory Anemia with Excess Blasts
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7464|http://www.orpha.net/ORDO/Orphanet_86851|C1301357|Acute Leukemia of Ambiguous Lineage
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27262|http://www.orpha.net/ORDO/Orphanet_98275|C1301355|Myelodysplastic/Myeloproliferative Diseases
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34378|http://www.orpha.net/ORDO/Orphanet_98375|C0002880|Autoimmune Hemolytic Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34377|http://www.orpha.net/ORDO/Orphanet_182047|C0002879|Acquired Hemolytic Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6860|http://www.orpha.net/ORDO/Orphanet_300865|C1301362|Primary Cutaneous Anaplastic Large Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34376|http://www.orpha.net/ORDO/Orphanet_98363|C0002878|Hemolytic Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129699|http://www.orpha.net/ORDO/Orphanet_231214|C0002875|Cooley's Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84646|http://www.orpha.net/ORDO/Orphanet_85|C0002876|Congenital Dyserythropoietic Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2869|http://www.orpha.net/ORDO/Orphanet_108997|C0002871|Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35805|http://www.orpha.net/ORDO/Orphanet_78|C0002831|Ancylostomiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C135180|http://www.orpha.net/ORDO/Orphanet_98993|C0858617|Posterior Subcapsular Cataract
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123031|http://www.orpha.net/ORDO/Orphanet_1851|C3714581|Multicystic Dysplastic Kidney
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85052|http://www.orpha.net/ORDO/Orphanet_796|C0036161|Sandhoff Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34373|http://www.orpha.net/ORDO/Orphanet_803|C0002736|Amyotrophic Lateral Sclerosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153178|http://www.orpha.net/ORDO/Orphanet_240760|C2751318|Nijmegen Breakage Syndrome-Like Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84689|http://www.orpha.net/ORDO/Orphanet_83314|C0041473|Epidemic Louse-Borne Typhus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35089|http://www.orpha.net/ORDO/Orphanet_99745|C0041466|Typhoid Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3798|http://www.orpha.net/ORDO/Orphanet_3148|C0751690|Malignant Peripheral Nerve Sheath Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4973|http://www.orpha.net/ORDO/Orphanet_85102|C0751691|Perineurioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3725|http://www.orpha.net/ORDO/Orphanet_538|C0751674|Lymphangioleiomyomatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26900|http://www.orpha.net/ORDO/Orphanet_881|C0041408|Turner Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84715|http://www.orpha.net/ORDO/Orphanet_2092|C0016395|Focal Dermal Hypoplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85208|http://www.orpha.net/ORDO/Orphanet_3392|C0041351|Tularemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3424|http://www.orpha.net/ORDO/Orphanet_805|C0041341|Tuberous Sclerosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84804|http://www.orpha.net/ORDO/Orphanet_501|C0751783|Lafora Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122653|http://www.orpha.net/ORDO/Orphanet_101|C0751781|Dentatorubral-Pallidoluysian Atrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84781|http://www.orpha.net/ORDO/Orphanet_33208|C0751757|Idiopathic Hypersomnolence
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84937|http://www.orpha.net/ORDO/Orphanet_289857|C0751748|Nonketotic Hyperglycinemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116955|http://www.orpha.net/ORDO/Orphanet_1672|C0271889|Diencephalic Syndrome of Infancy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121745|http://www.orpha.net/ORDO/Orphanet_705|C0271829|Pendred Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98878|http://www.orpha.net/ORDO/Orphanet_98946|C0521573|Coloboma of the Eyelid
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85025|http://www.orpha.net/ORDO/Orphanet_100070|C0751706|Primary Progressive Nonfluent Aphasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3423|http://www.orpha.net/ORDO/Orphanet_3389|C0041296|Tuberculosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84629|http://www.orpha.net/ORDO/Orphanet_3386|C0041234|Chagas Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8495|http://www.orpha.net/ORDO/Orphanet_357027|C0751483|Familial Retinoblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84541|http://www.orpha.net/ORDO/Orphanet_3385|C0041228|African Trypanosomiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98880|http://www.orpha.net/ORDO/Orphanet_3384|C0041207|Persistent Truncus Arteriosus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117117|http://www.orpha.net/ORDO/Orphanet_79254|C0751434|Classical Phenylketonuria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84795|http://www.orpha.net/ORDO/Orphanet_98954|C0339277|Juvenile Epithelial of Meesmann Corneal Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3421|http://www.orpha.net/ORDO/Orphanet_98130|C0041107|Trisomy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84606|http://www.orpha.net/ORDO/Orphanet_136|C0751587|CADASIL Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116816|http://www.orpha.net/ORDO/Orphanet_1482|C0339166|Gonococcal Ophthalmia Neonatorum
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126688|http://www.orpha.net/ORDO/Orphanet_610|C1834674|Bethlem Myopathy 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5214|http://www.orpha.net/ORDO/Orphanet_213528|C0858252|Breast Adenocarcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4956|http://www.orpha.net/ORDO/Orphanet_251863|C0751291|Desmoplastic Medulloblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C147072|http://www.orpha.net/ORDO/Orphanet_248111|C0751208|Juvenile Huntington Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98992|http://www.orpha.net/ORDO/Orphanet_1205|C0344760|Congenital Mitral Valve Atresia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35714|http://www.orpha.net/ORDO/Orphanet_98300|C2350236|Idiopathic Interstitial Pneumonia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116796|http://www.orpha.net/ORDO/Orphanet_98482|C0751356|Idiopathic Inflammatory Myopathies
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35716|http://www.orpha.net/ORDO/Orphanet_2032|C1800706|Idiopathic Pulmonary Fibrosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84675|http://www.orpha.net/ORDO/Orphanet_599|C0751336|Distal Muscular Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50575|http://www.orpha.net/ORDO/Orphanet_79364|C0002170|Alopecia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84721|http://www.orpha.net/ORDO/Orphanet_98974|C0016781|Fuchs Endothelial Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84718|http://www.orpha.net/ORDO/Orphanet_95|C0016719|Friedreich Ataxia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84546|http://www.orpha.net/ORDO/Orphanet_56|C0002066|Alkaptonuria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C102986|http://www.orpha.net/ORDO/Orphanet_631|C0271561|Somatotropin Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C130994|http://www.orpha.net/ORDO/Orphanet_633|C0271568|Laron Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84717|http://www.orpha.net/ORDO/Orphanet_908|C0016667|Fragile X Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129303|http://www.orpha.net/ORDO/Orphanet_48|C0403814|Congenital Bilateral Aplasia of the Vas Deferens
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99053|http://www.orpha.net/ORDO/Orphanet_98723|C0344963|Hypoplastic Right Heart Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131000|http://www.orpha.net/ORDO/Orphanet_769|C0271695|Rabson-Mendenhall Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131089|http://www.orpha.net/ORDO/Orphanet_79086|C0271693|Acquired Generalized Lipodystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84708|http://www.orpha.net/ORDO/Orphanet_98306|C0271694|Familial Partial Lipodystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113347|http://www.orpha.net/ORDO/Orphanet_181387|C0271623|Hypogonadotropic Hypogonadism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3141|http://www.orpha.net/ORDO/Orphanet_104011|C0021841|Intestinal Neoplasms
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84790|http://www.orpha.net/ORDO/Orphanet_1201|C0021828|Intestinal Atresia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9496|http://www.orpha.net/ORDO/Orphanet_300857|C1321547|T-Cell/Histiocyte-Rich Large B-Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85078|http://www.orpha.net/ORDO/Orphanet_827|C0271093|Stargardt Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75483|http://www.orpha.net/ORDO/Orphanet_792|C0271091|Juvenile X-Linked Retinoschisis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85217|http://www.orpha.net/ORDO/Orphanet_886|C0271097|Usher Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99034|http://www.orpha.net/ORDO/Orphanet_2414|C1849554|Congenital Pulmonary Lymphangiectasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95598|http://www.orpha.net/ORDO/Orphanet_97279|C0021670|Insulinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84566|http://www.orpha.net/ORDO/Orphanet_375|C0403529|Anti-Glomerular Basement Membrane Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6557|http://www.orpha.net/ORDO/Orphanet_93921|C1335929|Schwannomatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125418|http://www.orpha.net/ORDO/Orphanet_2166|C1849649|Pseudotrisomy 13 Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84905|http://www.orpha.net/ORDO/Orphanet_587|C1321489|Muir-Torre Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34611|http://www.orpha.net/ORDO/Orphanet_2034|C0016085|Filariasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3043|http://www.orpha.net/ORDO/Orphanet_2030|C0016057|Fibrosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34610|http://www.orpha.net/ORDO/Orphanet_93276|C0016065|Polyostotic Fibrous Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53971|http://www.orpha.net/ORDO/Orphanet_93277|C0016064|Monostotic Fibrous Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3040|http://www.orpha.net/ORDO/Orphanet_337|C0016037|Fibrodysplasia Ossificans Progressiva
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4815|http://www.orpha.net/ORDO/Orphanet_100088|C0549473|Thyroid Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9321|http://www.orpha.net/ORDO/Orphanet_150|C0153392|Malignant Neoplasm of Nasopharynx
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7481|http://www.orpha.net/ORDO/Orphanet_56044|C0153452|Malignant Neoplasm of Gallbladder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85009|http://www.orpha.net/ORDO/Orphanet_2884|C0080024|Piebaldism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7480|http://www.orpha.net/ORDO/Orphanet_180242|C0153579|Malignant Neoplasm of Fallopian Tube
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3556|http://www.orpha.net/ORDO/Orphanet_213569|C0153574|Malignant Uterine Corpus Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3552|http://www.orpha.net/ORDO/Orphanet_213564|C0153567|Uterine Cancer
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101214|http://www.orpha.net/ORDO/Orphanet_823|C0080178|Spina Bifida
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7547|http://www.orpha.net/ORDO/Orphanet_398043|C0153601|Malignant Neoplasm of Penis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129866|http://www.orpha.net/ORDO/Orphanet_238455|C2751067|Parkinsonism-Dystonia, Infantile
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27519|http://www.orpha.net/ORDO/Orphanet_79151|C0265971|Acrokeratosis Verruciformis of Hopf
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3940|http://www.orpha.net/ORDO/Orphanet_352657|C0265966|Hereditary Benign Intraepithelial Dyskeratosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111802|http://www.orpha.net/ORDO/Orphanet_1775|C0265965|Dyskeratosis Congenita
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84696|http://www.orpha.net/ORDO/Orphanet_317|C0265961|Erythrokeratodermia Variabilis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4296|http://www.orpha.net/ORDO/Orphanet_211252|C0265950|Venous Malformation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128419|http://www.orpha.net/ORDO/Orphanet_319251|C0035613|Rift Valley Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5724|http://www.orpha.net/ORDO/Orphanet_424073|C1335315|Serous Cystadenocarcinoma of Pancreas
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5725|http://www.orpha.net/ORDO/Orphanet_424058|C1335304|Intraductal Papillary-Mucinous Carcinoma of Pancreas
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3946|http://www.orpha.net/ORDO/Orphanet_64754|C0265987|Nevus Comedonicus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129978|http://www.orpha.net/ORDO/Orphanet_423470|C1854896|Mucolipidosis III Gamma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C130983|http://www.orpha.net/ORDO/Orphanet_2237|C1840333|Barakat Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84585|http://www.orpha.net/ORDO/Orphanet_111|C0574083|3-Methylglutaconic Aciduria Type 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85174|http://www.orpha.net/ORDO/Orphanet_57145|C1262087|SUNCT Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34984|http://www.orpha.net/ORDO/Orphanet_3099|C0035436|Rheumatic Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3359|http://www.orpha.net/ORDO/Orphanet_780|C0035412|Rhabdomyosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34983|http://www.orpha.net/ORDO/Orphanet_3096|C0035400|Reye Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85227|http://www.orpha.net/ORDO/Orphanet_83593|C0153064|Western Equine Encephalomyelitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75488|http://www.orpha.net/ORDO/Orphanet_778|C0035372|Rett Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26876|http://www.orpha.net/ORDO/Orphanet_49041|C0035357|Retroperitoneal Fibrosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34982|http://www.orpha.net/ORDO/Orphanet_90050|C0035344|Retinopathy of Prematurity
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4737|http://www.orpha.net/ORDO/Orphanet_86880|C0456889|Enteropathy-Associated T-Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85045|http://www.orpha.net/ORDO/Orphanet_791|C0035334|Retinitis Pigmentosa
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7541|http://www.orpha.net/ORDO/Orphanet_790|C0035335|Retinoblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3355|http://www.orpha.net/ORDO/Orphanet_98060|C0035244|Respiratory Tract Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27560|http://www.orpha.net/ORDO/Orphanet_70587|C0035220|Newborn Respiratory Distress Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75458|http://www.orpha.net/ORDO/Orphanet_884|C0265449|Pallister-Killian Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89799|http://www.orpha.net/ORDO/Orphanet_96263|C0265498|XXXY Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89802|http://www.orpha.net/ORDO/Orphanet_11|C0265497|49, XXXXX Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75477|http://www.orpha.net/ORDO/Orphanet_195|C0265493|Cat-Eye Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3138|http://www.orpha.net/ORDO/Orphanet_104012|C0021390|Inflammatory Bowel Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131650|http://www.orpha.net/ORDO/Orphanet_182050|C1854520|Sebastian Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75466|http://www.orpha.net/ORDO/Orphanet_783|C0035934|Rubinstein-Taybi Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89801|http://www.orpha.net/ORDO/Orphanet_10|C2936741|48, XXYY Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35330|http://www.orpha.net/ORDO/Orphanet_2070|C1262481|Eosinophilic Gastroenteritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125597|http://www.orpha.net/ORDO/Orphanet_93338|C0265553|Polysyndactyly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84725|http://www.orpha.net/ORDO/Orphanet_2368|C0265706|Gastroschisis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112122|http://www.orpha.net/ORDO/Orphanet_293173|C0877055|Acute Generalized Exanthematous Pustulosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C135087|http://www.orpha.net/ORDO/Orphanet_1830|C0877024|Schimke Immunoosseous Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98972|http://www.orpha.net/ORDO/Orphanet_1202|C0265756|Congenital Atresia of the larynx
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84828|http://www.orpha.net/ORDO/Orphanet_263|C0686353|Limb-Girdle Muscular Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128410|http://www.orpha.net/ORDO/Orphanet_83311|C0035793|Rocky Mountain Spotted Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5554|http://www.orpha.net/ORDO/Orphanet_424002|C1335690|Squamous Cell Carcinoma of Rectum
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98818|http://www.orpha.net/ORDO/Orphanet_95448|C0265843|Congenital Aortic Valve Atresia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3132|http://www.orpha.net/ORDO/Orphanet_100025|C0021071|Immunoproliferative Small Intestinal Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84573|http://www.orpha.net/ORDO/Orphanet_2302|C0003949|Asbestosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99105|http://www.orpha.net/ORDO/Orphanet_887|C1735591|VACTERL Association
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4752|http://www.orpha.net/ORDO/Orphanet_86871|C2363142|T-Cell Prolymphocytic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116538|http://www.orpha.net/ORDO/Orphanet_1945|C2363129|Benign Rolandic Epilepsy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85070|http://www.orpha.net/ORDO/Orphanet_816|C0037231|Sjogren-Larsson Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87121|http://www.orpha.net/ORDO/Orphanet_101063|C0037221|Situs Inversus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118455|http://www.orpha.net/ORDO/Orphanet_3169|C0037205|Sirenomelia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63924|http://www.orpha.net/ORDO/Orphanet_399293|C2711248|Osteonecrosis of Jaw
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84760|http://www.orpha.net/ORDO/Orphanet_171723|C1721005|Hereditary Mucosal Leukokeratosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84693|http://www.orpha.net/ORDO/Orphanet_2199|C1721006|Epidermolytic Palmoplantar Keratoderma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84572|http://www.orpha.net/ORDO/Orphanet_109007|C0003886|Arthrogryposis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36192|http://www.orpha.net/ORDO/Orphanet_98731|C0003855|Arteriovenous Fistula
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2880|http://www.orpha.net/ORDO/Orphanet_99916|C0003810|Sertoli-Leydig Cell Tumor of Ovary
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84570|http://www.orpha.net/ORDO/Orphanet_1136|C0003803|Arnold-Chiari Malformation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9222|http://www.orpha.net/ORDO/Orphanet_47044|C0879257|Hereditary Papillary Renal Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C119677|http://www.orpha.net/ORDO/Orphanet_79095|C3280428|Alpha-Methylacyl-CoA Racemase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37913|http://www.orpha.net/ORDO/Orphanet_137817|C0003708|Arachnoiditis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37864|http://www.orpha.net/ORDO/Orphanet_3261|C1328840|Autoimmune Lymphoproliferative Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62244|http://www.orpha.net/ORDO/Orphanet_166282|C0037052|Sick Sinus Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131429|http://www.orpha.net/ORDO/Orphanet_1513|C0410539|Craniodiaphyseal Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118635|http://www.orpha.net/ORDO/Orphanet_750|C0410538|Pseudoachondroplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2879|http://www.orpha.net/ORDO/Orphanet_877|C0003650|Apudoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98584|http://www.orpha.net/ORDO/Orphanet_93274|C1300257|Type 2 Thanatophoric Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84813|http://www.orpha.net/ORDO/Orphanet_650|C0023195|Lecithin Acyltransferase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34761|http://www.orpha.net/ORDO/Orphanet_330015|C0023176|Lead Poisoning
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C140267|http://www.orpha.net/ORDO/Orphanet_685|C0037773|Hereditary Spastic Paraplegia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34760|http://www.orpha.net/ORDO/Orphanet_2377|C0023138|Laurence-Moon Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84788|http://www.orpha.net/ORDO/Orphanet_3451|C0037769|West Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129031|http://www.orpha.net/ORDO/Orphanet_93357|C1300260|Spondyloepimetaphyseal Dysplasia, Sponastrime Type
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125385|http://www.orpha.net/ORDO/Orphanet_46348|C1833661|Paroxysmal Extreme Pain Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27864|http://www.orpha.net/ORDO/Orphanet_163588|C0747256|Parasitic Infection
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128418|http://www.orpha.net/ORDO/Orphanet_99824|C0023092|Lassa Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3379|http://www.orpha.net/ORDO/Orphanet_97283|C0037661|Somatostatinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75118|http://www.orpha.net/ORDO/Orphanet_502|C0023003|Langer-Giedion Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118781|http://www.orpha.net/ORDO/Orphanet_596|C0410203|X-Linked Centronuclear Myopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131681|http://www.orpha.net/ORDO/Orphanet_52530|C1280798|Platelet-Type von Willebrand Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123308|http://www.orpha.net/ORDO/Orphanet_206647|C0410226|Congenital Myotonic Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97147|http://www.orpha.net/ORDO/Orphanet_182090|C1701938|Associated Pulmonary Arterial Hypertension
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27053|http://www.orpha.net/ORDO/Orphanet_402035|C0267448|Eosinophilic Colitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3377|http://www.orpha.net/ORDO/Orphanet_71209|C0037579|Soft Tissue Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7492|http://www.orpha.net/ORDO/Orphanet_314422|C1314678|Ameloblastic Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84685|http://www.orpha.net/ORDO/Orphanet_261|C0410189|Emery-Dreifuss Muscular Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133884|http://www.orpha.net/ORDO/Orphanet_465|C2750067|Plasminogen Activator Inhibitor-1 Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27483|http://www.orpha.net/ORDO/Orphanet_247762|C1260965|Lipoblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97089|http://www.orpha.net/ORDO/Orphanet_79161|C0149670|Carbohydrate Metabolism Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75008|http://www.orpha.net/ORDO/Orphanet_894|C1847800|Waardenburg Syndrome Type 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84563|http://www.orpha.net/ORDO/Orphanet_250923|C0003076|Aniridia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122657|http://www.orpha.net/ORDO/Orphanet_99812|C1847827|LIG4 Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95597|http://www.orpha.net/ORDO/Orphanet_97280|C0017689|Glucagonoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34644|http://www.orpha.net/ORDO/Orphanet_54370|C0017662|Membranoproliferative Glomerulonephritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92552|http://www.orpha.net/ORDO/Orphanet_251671|C2363903|Angiocentric Glioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3060|http://www.orpha.net/ORDO/Orphanet_391651|C0017653|Glomus Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C114902|http://www.orpha.net/ORDO/Orphanet_99885|C1833104|Permanent Neonatal Diabetes Mellitus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3058|http://www.orpha.net/ORDO/Orphanet_360|C0017636|Glioblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3059|http://www.orpha.net/ORDO/Orphanet_182067|C0017638|Glioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84402|http://www.orpha.net/ORDO/Orphanet_65682|C0149841|Benign Recurrent Intrahepatic Cholestasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93046|http://www.orpha.net/ORDO/Orphanet_99725|C0017547|Gigantism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7644|http://www.orpha.net/ORDO/Orphanet_55881|C1367554|Adamantinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98813|http://www.orpha.net/ORDO/Orphanet_675|C0149955|Annular Pancreas
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3498|http://www.orpha.net/ORDO/Orphanet_314473|C0149951|Ovarian Fibroma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4917|http://www.orpha.net/ORDO/Orphanet_70573|C0149925|Small Cell Carcinoma of Lung
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84727|http://www.orpha.net/ORDO/Orphanet_356|C0017495|Gerstmann-Straussler-Scheinker Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61236|http://www.orpha.net/ORDO/Orphanet_124|C1260899|Diamond-Blackfan Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8460|http://www.orpha.net/ORDO/Orphanet_98832|C0522631|Acute Myeloid Leukemia with Minimal Differentiation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84763|http://www.orpha.net/ORDO/Orphanet_3020|C0017409|Herpes Zoster Oticus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6918|http://www.orpha.net/ORDO/Orphanet_86884|C0522624|Subcutaneous Panniculitis-Like T-Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C159717|http://www.orpha.net/ORDO/Orphanet_289644|C2363744|Epstein-Barr Virus-Associated Lymphoproliferative Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85176|http://www.orpha.net/ORDO/Orphanet_3193|C0003499|Supravalvular Aortic Stenosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84567|http://www.orpha.net/ORDO/Orphanet_1457|C0003492|Aortic Coarctation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34391|http://www.orpha.net/ORDO/Orphanet_99079|C0003490|Aortic Arch Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C148367|http://www.orpha.net/ORDO/Orphanet_101070|C1847352|Bilateral Frontoparietal Polymicrogyria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35549|http://www.orpha.net/ORDO/Orphanet_137577|C0752304|Hypoxic Ischemic Encephalopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68677|http://www.orpha.net/ORDO/Orphanet_903|C0042974|von Willebrand Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84734|http://www.orpha.net/ORDO/Orphanet_365|C0017921|Glycogen Storage Disease Type II
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84736|http://www.orpha.net/ORDO/Orphanet_366|C0017922|Glycogen Storage Disease Type III
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84733|http://www.orpha.net/ORDO/Orphanet_364|C0017920|Glycogen Storage Disease Type I
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126875|http://www.orpha.net/ORDO/Orphanet_369|C0017925|Glycogen Storage Disease Type VI
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118437|http://www.orpha.net/ORDO/Orphanet_371|C0017926|Glycogen Storage Disease Type VII
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84737|http://www.orpha.net/ORDO/Orphanet_367|C0017923|Glycogen Storage Disease Type IV
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84738|http://www.orpha.net/ORDO/Orphanet_368|C0017924|Glycogen Storage Disease Type V
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61272|http://www.orpha.net/ORDO/Orphanet_79201|C0017919|Glycogen Storage Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126738|http://www.orpha.net/ORDO/Orphanet_713|C1970848|Phosphoglycerate Kinase 1 Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36474|http://www.orpha.net/ORDO/Orphanet_1437|C1519099|Ring Chromosome 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C40315|http://www.orpha.net/ORDO/Orphanet_251615|C1519086|Pilomyxoid Astrocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99111|http://www.orpha.net/ORDO/Orphanet_3325|C0272285|Heparin Induced Thrombocytopenia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118632|http://www.orpha.net/ORDO/Orphanet_110|C0752166|Bardet-Biedl Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27071|http://www.orpha.net/ORDO/Orphanet_169139|C0272238|Transient Hypogammaglobulinemia of Infancy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129982|http://www.orpha.net/ORDO/Orphanet_98755|C0752120|Spinocerebellar Ataxia Type 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126562|http://www.orpha.net/ORDO/Orphanet_94147|C0752125|Spinocerebellar Ataxia Type 7
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C148315|http://www.orpha.net/ORDO/Orphanet_98756|C0752121|Spinocerebellar Ataxia Type 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7136|http://www.orpha.net/ORDO/Orphanet_66662|C0272202|Extracutaneous Mastocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9286|http://www.orpha.net/ORDO/Orphanet_98848|C0272203|Indolent Systemic Mastocytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9118|http://www.orpha.net/ORDO/Orphanet_3394|C1261473|Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99022|http://www.orpha.net/ORDO/Orphanet_749|C0272339|Prekallikrein Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98946|http://www.orpha.net/ORDO/Orphanet_483|C0272340|High Molecular Weight Kininogen Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7258|http://www.orpha.net/ORDO/Orphanet_86893|C1334968|Nodular Lymphocyte Predominant Hodgkin Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84741|http://www.orpha.net/ORDO/Orphanet_721|C0272302|Gray Platelet Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116933|http://www.orpha.net/ORDO/Orphanet_99796|C1848201|Subcortical Band Heterotopia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3155|http://www.orpha.net/ORDO/Orphanet_43393|C0022972|Lambert Eaton Myasthenic Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98889|http://www.orpha.net/ORDO/Orphanet_661|C1275808|Congenital Central Hypoventilation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7754|http://www.orpha.net/ORDO/Orphanet_2929|C0345893|Juvenile Polyposis Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C155954|http://www.orpha.net/ORDO/Orphanet_104010|C0345891|Intestinal Polyposis Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101200|http://www.orpha.net/ORDO/Orphanet_853|C3853779|Neonatal Alloimmune Thrombocytopenia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C5164|http://www.orpha.net/ORDO/Orphanet_213531|C1334708|Metaplastic Carcinoma of Breast
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141367|http://www.orpha.net/ORDO/Orphanet_90342|C1848410|Xeroderma Pigmentosum Variant Type
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26912|http://www.orpha.net/ORDO/Orphanet_52759|C0042384|Vasculitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98678|http://www.orpha.net/ORDO/Orphanet_289902|C3696376|3-Methylglutaconic Aciduria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61268|http://www.orpha.net/ORDO/Orphanet_355|C0017205|Gaucher Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98975|http://www.orpha.net/ORDO/Orphanet_171215|C0345218|Low Anorectal Malformation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85218|http://www.orpha.net/ORDO/Orphanet_3437|C0042170|Uveomeningoencephalitic Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35111|http://www.orpha.net/ORDO/Orphanet_280892|C0042167|Posterior Uveitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35109|http://www.orpha.net/ORDO/Orphanet_280886|C0042165|Anterior Uveitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35110|http://www.orpha.net/ORDO/Orphanet_279914|C0042166|Intermediate Uveitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26909|http://www.orpha.net/ORDO/Orphanet_98715|C0042164|Uveitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3052|http://www.orpha.net/ORDO/Orphanet_98059|C0017185|Gastrointestinal Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3433|http://www.orpha.net/ORDO/Orphanet_79457|C0042111|Urticaria Pigmentosa
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3432|http://www.orpha.net/ORDO/Orphanet_79384|C0042109|Urticaria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67277|http://www.orpha.net/ORDO/Orphanet_2494|C0017155|Hypertrophic Gastritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3050|http://www.orpha.net/ORDO/Orphanet_913|C0017150|Gastrinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118859|http://www.orpha.net/ORDO/Orphanet_411527|C0154841|Central Retinal Vein Occlusion
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6728|http://www.orpha.net/ORDO/Orphanet_79665|C0017097|Gardner Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27070|http://www.orpha.net/ORDO/Orphanet_33355|C0272167|Reticular Dysgenesis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3049|http://www.orpha.net/ORDO/Orphanet_251992|C0017075|Ganglioneuroma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61284|http://www.orpha.net/ORDO/Orphanet_1959|C0272126|Evans Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C155310|http://www.orpha.net/ORDO/Orphanet_251370|C0272084|Hemoglobin SD Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98898|http://www.orpha.net/ORDO/Orphanet_621|C0272087|Congenital Methemoglobinemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35344|http://www.orpha.net/ORDO/Orphanet_90039|C0272080|Hemoglobin D Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3366|http://www.orpha.net/ORDO/Orphanet_3162|C0036920|Sezary Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27502|http://www.orpha.net/ORDO/Orphanet_209916|C1275278|Extraskeletal Myxoid Chondrosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97092|http://www.orpha.net/ORDO/Orphanet_309005|C0154251|Lipid Metabolism Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39976|http://www.orpha.net/ORDO/Orphanet_99916|C0036769|Sertoli Cell Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34736|http://www.orpha.net/ORDO/Orphanet_280886|C0022073|Iridocyclitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9309|http://www.orpha.net/ORDO/Orphanet_842|C0036631|Seminoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27174|http://www.orpha.net/ORDO/Orphanet_90041|C0541719|Stress Polycythemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C138171|http://www.orpha.net/ORDO/Orphanet_13|C0878676|6-pyruvoyl Tetrahydropterin Synthase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84735|http://www.orpha.net/ORDO/Orphanet_34587|C0878677|Glycogen Storage Disease Type IIb
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53972|http://www.orpha.net/ORDO/Orphanet_35687|C0878675|Erdheim-Chester Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123260|http://www.orpha.net/ORDO/Orphanet_1652|C0878681|Dent Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98967|http://www.orpha.net/ORDO/Orphanet_2345|C0022738|Klippel-Feil Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84801|http://www.orpha.net/ORDO/Orphanet_2346|C0022739|Klippel-Trenaunay-Weber Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75486|http://www.orpha.net/ORDO/Orphanet_565|C0022716|Menkes Kinky Hair Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34830|http://www.orpha.net/ORDO/Orphanet_167848|C0878544|Cardiomyopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152105|http://www.orpha.net/ORDO/Orphanet_101997|C0398686|Primary Immune Deficiency Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128193|http://www.orpha.net/ORDO/Orphanet_32|C0398746|Glutathione Synthetase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7175|http://www.orpha.net/ORDO/Orphanet_98277|C1275661|Acute Myeloid Leukemia with Recurrent Genetic Abnormalities
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4689|http://www.orpha.net/ORDO/Orphanet_2968|C0398738|Leukocyte Adhesion Deficiency Type 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34751|http://www.orpha.net/ORDO/Orphanet_1309|C0022681|Medullary Sponge Kidney
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3150|http://www.orpha.net/ORDO/Orphanet_93619|C0022665|Kidney Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84799|http://www.orpha.net/ORDO/Orphanet_415286|C0022610|Kernicterus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131450|http://www.orpha.net/ORDO/Orphanet_157215|C1853271|Hereditary Hypophosphatemic Rickets with Hypercalciuria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99025|http://www.orpha.net/ORDO/Orphanet_745|C0398625|Protein C Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84665|http://www.orpha.net/ORDO/Orphanet_218|C0022595|Keratosis Follicularis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84798|http://www.orpha.net/ORDO/Orphanet_480|C0022541|Kearns-Sayre Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4076|http://www.orpha.net/ORDO/Orphanet_472|C0311386|Isosporiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4692|http://www.orpha.net/ORDO/Orphanet_647|C0398791|Nijmegen Breakage Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98647|http://www.orpha.net/ORDO/Orphanet_26793|C3887523|Acyl-CoA Dehydrogenase, Very Long-Chain Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35439|http://www.orpha.net/ORDO/Orphanet_158032|C3887558|Hemophagocytic Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62776|http://www.orpha.net/ORDO/Orphanet_451607|C0311220|Cutaneous Pseudolymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84793|http://www.orpha.net/ORDO/Orphanet_90647|C0022387|Jervell and Lange Nielsen Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34741|http://www.orpha.net/ORDO/Orphanet_234|C0022350|Chronic Idiopathic Jaundice
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99059|http://www.orpha.net/ORDO/Orphanet_104008|C0036992|Short Bowel Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85065|http://www.orpha.net/ORDO/Orphanet_1505|C0036996|Short Rib-Polydactyly Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50482|http://www.orpha.net/ORDO/Orphanet_97292|C0036980|Cardiogenic Shock
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26802|http://www.orpha.net/ORDO/Orphanet_204|C0022336|Creutzfeldt-Jakob Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120376|http://www.orpha.net/ORDO/Orphanet_247768|C2675014|Mullerian Aplasia and Hyperandrogenism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121142|http://www.orpha.net/ORDO/Orphanet_52901|C1856716|Isolated Follicle Stimulating Hormone Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85171|http://www.orpha.net/ORDO/Orphanet_2806|C0038522|Subacute Sclerosing Panencephalitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C119056|http://www.orpha.net/ORDO/Orphanet_210115|C2748507|Deficiency of the Interleukin-1 Receptor Antagonist
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3391|http://www.orpha.net/ORDO/Orphanet_90307|C0038505|Sturge-Weber Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61240|http://www.orpha.net/ORDO/Orphanet_39041|C2700553|Omenn Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128398|http://www.orpha.net/ORDO/Orphanet_76|C0038463|Strongyloidiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C150368|http://www.orpha.net/ORDO/Orphanet_183678|C1842362|Hermansky-Pudlak Syndrome 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79484|http://www.orpha.net/ORDO/Orphanet_36426|C0038325|Stevens-Johnson Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2895|http://www.orpha.net/ORDO/Orphanet_97293|C0004997|Benign Ovarian Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125384|http://www.orpha.net/ORDO/Orphanet_1929|C2930868|Rasmussen Subacute Encephalitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34416|http://www.orpha.net/ORDO/Orphanet_117|C0004943|Behcet Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122654|http://www.orpha.net/ORDO/Orphanet_93269|C0024507|Majewski Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85213|http://www.orpha.net/ORDO/Orphanet_166096|C1264041|von Willebrand Disease, Type 3
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131685|http://www.orpha.net/ORDO/Orphanet_166078|C1264039|von Willebrand Disease, Type 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7712|http://www.orpha.net/ORDO/Orphanet_39044|C0220633|Uveal Melanoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74999|http://www.orpha.net/ORDO/Orphanet_2152|C1856113|Mowat-Wilson Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84568|http://www.orpha.net/ORDO/Orphanet_90|C0268548|Hyperargininemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84569|http://www.orpha.net/ORDO/Orphanet_23|C0268547|Argininosuccinic Aciduria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85029|http://www.orpha.net/ORDO/Orphanet_742|C0268532|Prolidase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84907|http://www.orpha.net/ORDO/Orphanet_26791|C0268596|Multiple Acyl Coenzyme A Dehydrogenase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98842|http://www.orpha.net/ORDO/Orphanet_79242|C0268581|Holocarboxylase Synthetase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85030|http://www.orpha.net/ORDO/Orphanet_35|C0268579|Propionic Acidemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3213|http://www.orpha.net/ORDO/Orphanet_163634|C0024454|Maffucci Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34793|http://www.orpha.net/ORDO/Orphanet_98969|C0024439|Macular Corneal Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85505|http://www.orpha.net/ORDO/Orphanet_2583|C0024449|Mycetoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80307|http://www.orpha.net/ORDO/Orphanet_33226|C0024419|Waldenstrom Macroglobulinemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84832|http://www.orpha.net/ORDO/Orphanet_156207|C0024421|Macroglossia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84830|http://www.orpha.net/ORDO/Orphanet_98757|C0024408|Machado-Joseph Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84537|http://www.orpha.net/ORDO/Orphanet_99900|C0220711|Acyl-CoA Dehydrogenase, Long-Chain Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84538|http://www.orpha.net/ORDO/Orphanet_42|C0220710|Medium-Chain Acyl-Coenzyme A Dehydrogenase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C156311|http://www.orpha.net/ORDO/Orphanet_628|C0220726|Diastrophic Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84598|http://www.orpha.net/ORDO/Orphanet_79241|C0220754|Biotinidase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85214|http://www.orpha.net/ORDO/Orphanet_646|C0220756|Niemann-Pick Disease, Type C
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35261|http://www.orpha.net/ORDO/Orphanet_95702|C0220766|Congenital Adrenal Gland Hypoplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98932|http://www.orpha.net/ORDO/Orphanet_2059|C0220730|Fryns Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34842|http://www.orpha.net/ORDO/Orphanet_63|C1567741|Alport Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61245|http://www.orpha.net/ORDO/Orphanet_175|C0220748|Cartilage Hair Hypoplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131073|http://www.orpha.net/ORDO/Orphanet_289157|C0268689|Vitamin D-Dependent Rickets Type 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27589|http://www.orpha.net/ORDO/Orphanet_206613|C1278821|Peripheral Nervous System Infectious Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84523|http://www.orpha.net/ORDO/Orphanet_20|C0268601|HMG-CoA Lyase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9308|http://www.orpha.net/ORDO/Orphanet_238510|C0024314|Lymphoproliferative Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99100|http://www.orpha.net/ORDO/Orphanet_710|C0220658|Pfeiffer Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129865|http://www.orpha.net/ORDO/Orphanet_115|C0220668|Congenital Contractural Arachnodactyly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121563|http://www.orpha.net/ORDO/Orphanet_470|C0268647|Lysinuric Protein Intolerance
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3211|http://www.orpha.net/ORDO/Orphanet_547|C0024305|Non-Hodgkin's Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7930|http://www.orpha.net/ORDO/Orphanet_86869|C0024307|Lymphomatoid Granulomatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27824|http://www.orpha.net/ORDO/Orphanet_86900|C0024302|Reticulosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3209|http://www.orpha.net/ORDO/Orphanet_545|C0024301|Follicular Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3208|http://www.orpha.net/ORDO/Orphanet_223735|C0024299|Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34792|http://www.orpha.net/ORDO/Orphanet_158032|C0024291|Hemophagocytic Lymphohistiocytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3207|http://www.orpha.net/ORDO/Orphanet_79383|C0024236|Lymphedema
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85028|http://www.orpha.net/ORDO/Orphanet_683|C0038868|Progressive Supranuclear Palsy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8965|http://www.orpha.net/ORDO/Orphanet_2415|C0024221|Lymphangioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96182|http://www.orpha.net/ORDO/Orphanet_97567|C0268749|Fibrillary Glomerulonephritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129070|http://www.orpha.net/ORDO/Orphanet_212|C0220993|Cystathioninuria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129723|http://www.orpha.net/ORDO/Orphanet_79087|C0220989|Acquired Partial Lipodystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98944|http://www.orpha.net/ORDO/Orphanet_30|C0220987|Hereditary Orotic Aciduria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45161|http://www.orpha.net/ORDO/Orphanet_91546|C0024198|Lyme Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26820|http://www.orpha.net/ORDO/Orphanet_90281|C0024138|Discoid Lupus Erythematosus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26819|http://www.orpha.net/ORDO/Orphanet_535|C0024137|Cutaneous Lupus Erythematosus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4915|http://www.orpha.net/ORDO/Orphanet_251880|C0700367|Ependymoblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117111|http://www.orpha.net/ORDO/Orphanet_163525|C0024140|Subacute Cutaneous Lupus Erythematosus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123212|http://www.orpha.net/ORDO/Orphanet_93598|C0268164|Primary Hyperoxaluria Type I
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C114767|http://www.orpha.net/ORDO/Orphanet_79237|C0268155|Galactokinase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122662|http://www.orpha.net/ORDO/Orphanet_370|C0268147|Glycogen Storage Disease Type IX
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128190|http://www.orpha.net/ORDO/Orphanet_35122|C1283620|Congenital Sucrase-Isomaltase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99015|http://www.orpha.net/ORDO/Orphanet_2880|C0268194|Phosphoenolpyruvate Carboxykinase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3963|http://www.orpha.net/ORDO/Orphanet_760|C0268125|Purine-Nucleoside Phosphorylase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3962|http://www.orpha.net/ORDO/Orphanet_277|C0268124|Adenosine Deaminase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121564|http://www.orpha.net/ORDO/Orphanet_976|C0268120|Adenine Phosphoribosyltransferase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84609|http://www.orpha.net/ORDO/Orphanet_140|C1861922|Campomelic Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162398|http://www.orpha.net/ORDO/Orphanet_364|C2919796|Glycogen Storage Disease Type Ia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85861|http://www.orpha.net/ORDO/Orphanet_79263|C0268281|Infantile Neuronal Ceroid Lipofuscinosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133084|http://www.orpha.net/ORDO/Orphanet_309246|C0268275|Tay-Sachs Disease, AB Variant
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84908|http://www.orpha.net/ORDO/Orphanet_585|C0268263|Multiple Sulfatase Deficiency Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84710|http://www.orpha.net/ORDO/Orphanet_333|C0268255|Farber Lipogranulomatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84481|http://www.orpha.net/ORDO/Orphanet_220489|C0018995|Hemochromatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98699|http://www.orpha.net/ORDO/Orphanet_753|C0268297|Pseudovaginal Perineoscrotal Hypospadias
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34674|http://www.orpha.net/ORDO/Orphanet_2130|C0018987|Hemimelia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126866|http://www.orpha.net/ORDO/Orphanet_77293|C0268243|Niemann-Pick Disease, Type B
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126561|http://www.orpha.net/ORDO/Orphanet_77292|C0268242|Niemann-Pick Disease, Type A
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98910|http://www.orpha.net/ORDO/Orphanet_254905|C0268237|Cytochrome-C Oxidase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129928|http://www.orpha.net/ORDO/Orphanet_351|C0268233|Galactosialidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61273|http://www.orpha.net/ORDO/Orphanet_93|C0268225|Aspartylglucosaminuria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3088|http://www.orpha.net/ORDO/Orphanet_263413|C0018923|Hemangiosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3087|http://www.orpha.net/ORDO/Orphanet_2126|C0018922|Hemangiopericytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79550|http://www.orpha.net/ORDO/Orphanet_98252|C0596773|Infectious Encephalitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C119054|http://www.orpha.net/ORDO/Orphanet_575|C0268390|Muckle-Wells Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3819|http://www.orpha.net/ORDO/Orphanet_85443|C0268381|Primary Amyloidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8419|http://www.orpha.net/ORDO/Orphanet_65285|C0391826|Lhermitte-Duclos Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3082|http://www.orpha.net/ORDO/Orphanet_86864|C0018852|Heavy Chain Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133887|http://www.orpha.net/ORDO/Orphanet_95157|C0268328|Porphobilinogen Synthase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121656|http://www.orpha.net/ORDO/Orphanet_284227|C3854394|TEMPI Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84473|http://www.orpha.net/ORDO/Orphanet_1478|C0018817|Atrial Septal Defect
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125699|http://www.orpha.net/ORDO/Orphanet_286|C0268338|Ehlers-Danlos Syndrome, Type IV
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3081|http://www.orpha.net/ORDO/Orphanet_168194|C0018809|Heart Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98641|http://www.orpha.net/ORDO/Orphanet_882|C0268490|Tyrosinemia Type I
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60781|http://www.orpha.net/ORDO/Orphanet_94|C0004114|Astrocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2887|http://www.orpha.net/ORDO/Orphanet_100|C0004135|Ataxia Telangiectasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84549|http://www.orpha.net/ORDO/Orphanet_64|C0268425|Alstrom Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84526|http://www.orpha.net/ORDO/Orphanet_926|C0268419|Acatalasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C124845|http://www.orpha.net/ORDO/Orphanet_408|C0268418|Glycerol Kinase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84730|http://www.orpha.net/ORDO/Orphanet_358|C0268450|Gitelman Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34415|http://www.orpha.net/ORDO/Orphanet_116|C0004903|Beckwith-Wiedemann Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7224|http://www.orpha.net/ORDO/Orphanet_289666|C3472614|Plasmablastic Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75009|http://www.orpha.net/ORDO/Orphanet_895|C2700265|Waardenburg Syndrome Type 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85077|http://www.orpha.net/ORDO/Orphanet_36236|C0038165|Staphylococcal Scalded Skin Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75034|http://www.orpha.net/ORDO/Orphanet_794|C0175699|Saethre-Chotzen Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74986|http://www.orpha.net/ORDO/Orphanet_888|C0175697|Van der Woude Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75019|http://www.orpha.net/ORDO/Orphanet_821|C0175695|Sotos Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85071|http://www.orpha.net/ORDO/Orphanet_818|C0175694|Smith-Lemli-Opitz Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85068|http://www.orpha.net/ORDO/Orphanet_813|C0175693|Silver-Russell Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125591|http://www.orpha.net/ORDO/Orphanet_235|C0175691|Dubowitz Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126872|http://www.orpha.net/ORDO/Orphanet_79323|C1836669|Congenital Disorder of Glycosylation Type If
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9285|http://www.orpha.net/ORDO/Orphanet_98850|C1112486|Aggressive Systemic Mastocytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2892|http://www.orpha.net/ORDO/Orphanet_377|C0004779|Basal Cell Nevus Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84639|http://www.orpha.net/ORDO/Orphanet_187|C0175683|Citrullinemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48287|http://www.orpha.net/ORDO/Orphanet_99880|C1704981|Hyperparathyroidism-Jaw Tumor Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99038|http://www.orpha.net/ORDO/Orphanet_3320|C0175703|Thrombocytopenia-Absent Radius Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85232|http://www.orpha.net/ORDO/Orphanet_904|C0175702|Williams Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129720|http://www.orpha.net/ORDO/Orphanet_915|C0175701|Aarskog Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84648|http://www.orpha.net/ORDO/Orphanet_595|C0175709|Centronuclear Myopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84820|http://www.orpha.net/ORDO/Orphanet_500|C0175704|LEOPARD Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84583|http://www.orpha.net/ORDO/Orphanet_1223|C0004692|Balantidiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890|http://www.orpha.net/ORDO/Orphanet_163582|C0004623|Bacterial Infection
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125663|http://www.orpha.net/ORDO/Orphanet_137681|C1836797|Combined Oxidative Phosphorylation Deficiency 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35256|http://www.orpha.net/ORDO/Orphanet_50|C0175713|Aicardi Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7376|http://www.orpha.net/ORDO/Orphanet_50251|C0812413|Malignant Pleural Mesothelioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129980|http://www.orpha.net/ORDO/Orphanet_446|C0268059|Neonatal Hemochromatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84581|http://www.orpha.net/ORDO/Orphanet_108|C0004576|Babesiosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128145|http://www.orpha.net/ORDO/Orphanet_2670|C1836876|Pierson Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61271|http://www.orpha.net/ORDO/Orphanet_75233|C0043208|Wolman Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35133|http://www.orpha.net/ORDO/Orphanet_3463|C0043207|Wolfram Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26788|http://www.orpha.net/ORDO/Orphanet_379|C0018203|Chronic Granulomatous Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3448|http://www.orpha.net/ORDO/Orphanet_906|C0043194|Wiskott-Aldrich Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85231|http://www.orpha.net/ORDO/Orphanet_1489|C0043167|Pertussis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128341|http://www.orpha.net/ORDO/Orphanet_228371|C1739094|Foodborne Botulism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3447|http://www.orpha.net/ORDO/Orphanet_902|C0043119|Werner Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3063|http://www.orpha.net/ORDO/Orphanet_39812|C0018133|Graft Vs. Host Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85225|http://www.orpha.net/ORDO/Orphanet_49566|C0043068|Waterhouse-Friderichsen Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120198|http://www.orpha.net/ORDO/Orphanet_242|C0018054|46,XY Gonadal Dysgenesis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117273|http://www.orpha.net/ORDO/Orphanet_450|C3178805|Heterotaxy Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85181|http://www.orpha.net/ORDO/Orphanet_66529|C1739395|Takotsubo Cardiomyopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9005|http://www.orpha.net/ORDO/Orphanet_217074|C0346647|Malignant Neoplasm of Pancreas
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84547|http://www.orpha.net/ORDO/Orphanet_1164|C0004031|Allergic Bronchopulmonary Aspergillosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2886|http://www.orpha.net/ORDO/Orphanet_1163|C0004030|Aspergillosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3077|http://www.orpha.net/ORDO/Orphanet_290849|C0018671|Head and Neck Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95992|http://www.orpha.net/ORDO/Orphanet_284264|C3203653|IgG4-Related Sclerosing Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84748|http://www.orpha.net/ORDO/Orphanet_2116|C0018609|Hartnup Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3376|http://www.orpha.net/ORDO/Orphanet_68354|C0851578|Sleep Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77212|http://www.orpha.net/ORDO/Orphanet_73263|C0043541|Zygomycosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3453|http://www.orpha.net/ORDO/Orphanet_913|C0043515|Zollinger Ellison Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3076|http://www.orpha.net/ORDO/Orphanet_201|C0018553|Multiple Hamartoma Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C130985|http://www.orpha.net/ORDO/Orphanet_2050|C1862178|Cole-Carpenter Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122660|http://www.orpha.net/ORDO/Orphanet_85182|C1862177|Diaphyseal Medullary Stenosis with Malignant Fibrous Histiocytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8967|http://www.orpha.net/ORDO/Orphanet_157850|C0018523|Hallervorden-Spatz Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84746|http://www.orpha.net/ORDO/Orphanet_2108|C0018522|Hallermann's Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3456|http://www.orpha.net/ORDO/Orphanet_199267|C1318562|Infantile Digital Fibromatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3944|http://www.orpha.net/ORDO/Orphanet_626|C1318558|Congenital Melanocytic Nevus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27178|http://www.orpha.net/ORDO/Orphanet_238547|C1318533|Secondary Polycythemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85239|http://www.orpha.net/ORDO/Orphanet_912|C0043459|Zellweger Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84744|http://www.orpha.net/ORDO/Orphanet_414|C0018425|Gyrate Atrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35547|http://www.orpha.net/ORDO/Orphanet_99829|C0043395|Yellow Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126871|http://www.orpha.net/ORDO/Orphanet_79322|C1837396|Congenital Disorder of Glycosylation Type Ie
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3452|http://www.orpha.net/ORDO/Orphanet_910|C0043346|Xeroderma Pigmentosum
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116345|http://www.orpha.net/ORDO/Orphanet_2103|C0018378|Guillain-Barre Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3451|http://www.orpha.net/ORDO/Orphanet_158000|C0043324|Juvenile Xanthogranuloma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131425|http://www.orpha.net/ORDO/Orphanet_657|C3888018|Congenital Hyperinsulinism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C115158|http://www.orpha.net/ORDO/Orphanet_137617|C3888044|Nephrogenic Systemic Fibrosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C148461|http://www.orpha.net/ORDO/Orphanet_102011|C1969029|Lissencephaly 3
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116718|http://www.orpha.net/ORDO/Orphanet_256|C3888090|Early Onset Torsion Dystonia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3189|http://www.orpha.net/ORDO/Orphanet_254367|C0023646|Lichen Planus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34778|http://www.orpha.net/ORDO/Orphanet_33408|C0023648|Bullous Lichen Planus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34777|http://www.orpha.net/ORDO/Orphanet_254449|C0023647|Atrophic Lichen Planus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129028|http://www.orpha.net/ORDO/Orphanet_250|C1876203|Frontonasal Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4756|http://www.orpha.net/ORDO/Orphanet_137583|C0346210|Vulval Intraepithelial Neoplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111647|http://www.orpha.net/ORDO/Orphanet_95854|C0023569|Levocardia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26815|http://www.orpha.net/ORDO/Orphanet_217260|C0023524|Progressive Multifocal Leukoencephalopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61251|http://www.orpha.net/ORDO/Orphanet_512|C0023522|Metachromatic Leukodystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99013|http://www.orpha.net/ORDO/Orphanet_171676|C0023529|Periventricular Leukomalacia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61254|http://www.orpha.net/ORDO/Orphanet_487|C0023521|Globoid Cell Leukodystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61253|http://www.orpha.net/ORDO/Orphanet_68356|C0023520|Leukodystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4503|http://www.orpha.net/ORDO/Orphanet_227535|C0346153|Familial Cancer of Breast
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4505|http://www.orpha.net/ORDO/Orphanet_180253|C0346156|Benign Neoplasm of Breast
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7979|http://www.orpha.net/ORDO/Orphanet_454723|C0346163|Endometrioid Carcinoma of Ovary
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4517|http://www.orpha.net/ORDO/Orphanet_180237|C0346190|Benign Neoplasm of Fallopian Tube
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4514|http://www.orpha.net/ORDO/Orphanet_35807|C0346180|Malignant Ovarian Germ Cell Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3180|http://www.orpha.net/ORDO/Orphanet_454714|C0023484|Plasma Cell Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3179|http://www.orpha.net/ORDO/Orphanet_86829|C0023481|Chronic Neutrophilic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3182|http://www.orpha.net/ORDO/Orphanet_520|C0023487|Acute Promyelocytic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3178|http://www.orpha.net/ORDO/Orphanet_98823|C0023480|Chronic Myelomonocytic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70649|http://www.orpha.net/ORDO/Orphanet_86871|C0023494|Chronic T-Cell Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3184|http://www.orpha.net/ORDO/Orphanet_86875|C0023493|Adult T-Cell Lymphoma/Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3171|http://www.orpha.net/ORDO/Orphanet_519|C0023467|Acute Myelocytic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3170|http://www.orpha.net/ORDO/Orphanet_518|C0023462|Acute Megakaryocytic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3169|http://www.orpha.net/ORDO/Orphanet_98851|C0023461|Mast Cell Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4673|http://www.orpha.net/ORDO/Orphanet_86851|C0023464|Acute Biphenotypic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7463|http://www.orpha.net/ORDO/Orphanet_517|C0023479|Acute Myelomonocytic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3174|http://www.orpha.net/ORDO/Orphanet_521|C0023473|Chronic Myeloid Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9350|http://www.orpha.net/ORDO/Orphanet_168811|C0346109|Malignant Mesothelioma of Peritoneum
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3167|http://www.orpha.net/ORDO/Orphanet_513|C0023449|Acute Lymphocytic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8923|http://www.orpha.net/ORDO/Orphanet_318|C0023440|Acute Erythroblastic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7402|http://www.orpha.net/ORDO/Orphanet_58017|C0023443|Hairy Cell Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3164|http://www.orpha.net/ORDO/Orphanet_86849|C0023437|Acute Basophilic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3163|http://www.orpha.net/ORDO/Orphanet_67038|C0023434|Chronic Lymphocytic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99029|http://www.orpha.net/ORDO/Orphanet_2038|C0155675|Pulmonary Arteriovenous Fistula
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78565|http://www.orpha.net/ORDO/Orphanet_854|C0155773|Portal Vein Thrombosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84825|http://www.orpha.net/ORDO/Orphanet_509|C0023364|Leptospirosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4563|http://www.orpha.net/ORDO/Orphanet_168940|C0346421|Chronic Eosinophilic Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61255|http://www.orpha.net/ORDO/Orphanet_510|C0023374|Lesch-Nyhan Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84824|http://www.orpha.net/ORDO/Orphanet_548|C0023343|Leprosy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50750|http://www.orpha.net/ORDO/Orphanet_90058|C0037929|Spinal Cord Injury
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4561|http://www.orpha.net/ORDO/Orphanet_39044|C0346388|Malignant Melanoma of Choroid
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34767|http://www.orpha.net/ORDO/Orphanet_507|C0023281|Leishmaniasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3158|http://www.orpha.net/ORDO/Orphanet_64720|C0023269|Leiomyosarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84814|http://www.orpha.net/ORDO/Orphanet_506|C0023264|Leigh Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128334|http://www.orpha.net/ORDO/Orphanet_549|C0023240|Legionellosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45915|http://www.orpha.net/ORDO/Orphanet_91348|C0346304|Gonadotroph Adenoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8011|http://www.orpha.net/ORDO/Orphanet_91347|C0346303|Thyrotroph Adenoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7461|http://www.orpha.net/ORDO/Orphanet_96256|C0346302|Growth Hormone Secreting Adenoma of Pituitary
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117254|http://www.orpha.net/ORDO/Orphanet_79225|C0037899|Sphingolipidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4536|http://www.orpha.net/ORDO/Orphanet_300385|C0346300|Pituitary Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97074|http://www.orpha.net/ORDO/Orphanet_822|C0037889|Hereditary Spherocytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9088|http://www.orpha.net/ORDO/Orphanet_39044|C0346373|Malignant Melanoma of Iris
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85234|http://www.orpha.net/ORDO/Orphanet_89936|C0733682|X-Linked Dominant Hypophosphatemic Rickets
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34784|http://www.orpha.net/ORDO/Orphanet_2404|C0023968|Loiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82994|http://www.orpha.net/ORDO/Orphanet_533|C0023860|Listeriosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3194|http://www.orpha.net/ORDO/Orphanet_69078|C0023827|Liposarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4392|http://www.orpha.net/ORDO/Orphanet_2398|C0023804|Multiple Symmetrical Lipomatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98968|http://www.orpha.net/ORDO/Orphanet_141083|C0155241|Lacrimal Mucocele
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84771|http://www.orpha.net/ORDO/Orphanet_309015|C0023817|Hyperlipoproteinemia Type I
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4485|http://www.orpha.net/ORDO/Orphanet_53721|C0346068|Cobb's Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4487|http://www.orpha.net/ORDO/Orphanet_1063|C0346073|Tufted Angioma of Skin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85228|http://www.orpha.net/ORDO/Orphanet_3452|C0023788|Whipple Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85053|http://www.orpha.net/ORDO/Orphanet_579|C0023786|Mucopolysaccharidosis I
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84829|http://www.orpha.net/ORDO/Orphanet_530|C0023795|Lipoid Proteinosis of Urbach and Wiethe
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85188|http://www.orpha.net/ORDO/Orphanet_97330|C0039984|Thoracic Outlet Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101201|http://www.orpha.net/ORDO/Orphanet_93969|C0025312|Meningomyelocele
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6340|http://www.orpha.net/ORDO/Orphanet_213625|C0280631|Leiomyosarcoma of Uterus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4981|http://www.orpha.net/ORDO/Orphanet_99921|C0867389|Chronic Graft Versus Host Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9301|http://www.orpha.net/ORDO/Orphanet_46135|C0280803|Primary Central Nervous System Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3230|http://www.orpha.net/ORDO/Orphanet_2495|C0025286|Meningioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3229|http://www.orpha.net/ORDO/Orphanet_252025|C0025284|Meningeal Neoplasms
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157958|http://www.orpha.net/ORDO/Orphanet_55655|C0025295|Pneumococcal Meningitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3227|http://www.orpha.net/ORDO/Orphanet_247709|C0025269|Multiple Endocrine Neoplasia Type 2b
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3226|http://www.orpha.net/ORDO/Orphanet_653|C0025268|Multiple Endocrine Neoplasia Type 2a
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3225|http://www.orpha.net/ORDO/Orphanet_652|C0025267|Multiple Endocrine Neoplasia Type 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128336|http://www.orpha.net/ORDO/Orphanet_31202|C0025229|Melioidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129277|http://www.orpha.net/ORDO/Orphanet_251595|C0280785|Diffuse Astrocytoma, NOS
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84887|http://www.orpha.net/ORDO/Orphanet_2485|C0025239|Melorheostosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4049|http://www.orpha.net/ORDO/Orphanet_251646|C0280788|Anaplastic Ependymoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84886|http://www.orpha.net/ORDO/Orphanet_2483|C0025235|Melkersson-Rosenthal Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4050|http://www.orpha.net/ORDO/Orphanet_251656|C0280793|Mixed Astrocytoma-Oligodendroglioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131686|http://www.orpha.net/ORDO/Orphanet_166084|C1282968|von Willebrand Disease, Type 2A
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131689|http://www.orpha.net/ORDO/Orphanet_166093|C1282975|von Willebrand Disease, Type 2N
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131688|http://www.orpha.net/ORDO/Orphanet_166090|C1282974|von Willebrand Disease, Type 2M
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131687|http://www.orpha.net/ORDO/Orphanet_166087|C1282971|von Willebrand Disease, Type 2B
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3223|http://www.orpha.net/ORDO/Orphanet_314451|C0025184|Meigs Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3222|http://www.orpha.net/ORDO/Orphanet_616|C0025149|Medulloblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85187|http://www.orpha.net/ORDO/Orphanet_2655|C0039743|Thanatophoric Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87093|http://www.orpha.net/ORDO/Orphanet_70588|C0025048|Meconium Aspiration Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C130992|http://www.orpha.net/ORDO/Orphanet_93324|C1855648|Kenny-Caffey Syndrome Type 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84505|http://www.orpha.net/ORDO/Orphanet_3303|C0039685|Tetralogy of Fallot
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85185|http://www.orpha.net/ORDO/Orphanet_3299|C0039614|Tetanus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50401|http://www.orpha.net/ORDO/Orphanet_289685|C1302808|Myopericytoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34816|http://www.orpha.net/ORDO/Orphanet_68367|C0025521|Inborn Errors of Metabolism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3234|http://www.orpha.net/ORDO/Orphanet_50251|C0025500|Mesothelioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3235|http://www.orpha.net/ORDO/Orphanet_68367|C0025517|Metabolic Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7162|http://www.orpha.net/ORDO/Orphanet_542|C1302772|Primary Cutaneous Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C148366|http://www.orpha.net/ORDO/Orphanet_289916|C1855114|Methylmalonic Aciduria Due to Methylmalonyl-CoA Mutase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75462|http://www.orpha.net/ORDO/Orphanet_72|C0162635|Angelman Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9192|http://www.orpha.net/ORDO/Orphanet_213512|C0392998|Carcinosarcoma of Ovary
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85179|http://www.orpha.net/ORDO/Orphanet_99856|C0039144|Syringomyelia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3400|http://www.orpha.net/ORDO/Orphanet_3273|C0039101|Synovial Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3401|http://www.orpha.net/ORDO/Orphanet_66627|C0039106|Pigmented Villonodular Synovitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84885|http://www.orpha.net/ORDO/Orphanet_550|C0162671|MELAS Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101328|http://www.orpha.net/ORDO/Orphanet_206966|C0162670|Mitochondrial Myopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84889|http://www.orpha.net/ORDO/Orphanet_551|C0162672|MERRF Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84750|http://www.orpha.net/ORDO/Orphanet_244242|C0162739|HELLP Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87125|http://www.orpha.net/ORDO/Orphanet_90025|C0039075|Syndactyly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131652|http://www.orpha.net/ORDO/Orphanet_868|C1860808|Triosephosphate Isomerase Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123207|http://www.orpha.net/ORDO/Orphanet_93930|C0005689|Bladder Exstrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84941|http://www.orpha.net/ORDO/Orphanet_55|C0078918|Oculocutaneous Albinism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3455|http://www.orpha.net/ORDO/Orphanet_2356|C0078981|Arachnoid Cyst
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142079|http://www.orpha.net/ORDO/Orphanet_267|C1869123|Limb-Girdle Muscular Dystrophy Type 2A
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85019|http://www.orpha.net/ORDO/Orphanet_79358|C0162839|Porokeratosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79731|http://www.orpha.net/ORDO/Orphanet_79375|C0162834|Hyperpigmentation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75479|http://www.orpha.net/ORDO/Orphanet_478|C0162809|Kallmann Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3313|http://www.orpha.net/ORDO/Orphanet_100090|C0030521|Parathyroid Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34897|http://www.orpha.net/ORDO/Orphanet_443227|C0030528|Paratyphoid Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84920|http://www.orpha.net/ORDO/Orphanet_137617|C1619692|Nephrogenic Fibrosing Dermopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84709|http://www.orpha.net/ORDO/Orphanet_206976|C0030443|Familial Periodic Paralysis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9298|http://www.orpha.net/ORDO/Orphanet_98835|C0280141|Acute Undifferentiated Leukemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34891|http://www.orpha.net/ORDO/Orphanet_73260|C0030409|Paracoccidioidomycosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34421|http://www.orpha.net/ORDO/Orphanet_30391|C0005411|Biliary Atresia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101029|http://www.orpha.net/ORDO/Orphanet_98722|C1389018|Atrioventricular Septal Defect
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84600|http://www.orpha.net/ORDO/Orphanet_2901|C0221759|Brachial Plexus Neuritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84397|http://www.orpha.net/ORDO/Orphanet_60|C0221757|Alpha-1 Antitrypsin Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84893|http://www.orpha.net/ORDO/Orphanet_570|C0221060|Mobius Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27226|http://www.orpha.net/ORDO/Orphanet_754|C0039585|Androgen Insensitivity Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84835|http://www.orpha.net/ORDO/Orphanet_679|C0221011|Malignant Atrophic Papulosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9235|http://www.orpha.net/ORDO/Orphanet_2467|C0221013|Systemic Mastocytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95539|http://www.orpha.net/ORDO/Orphanet_251359|C0221019|Sickle Cell-Beta Thalassemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35262|http://www.orpha.net/ORDO/Orphanet_98362|C0221018|Hereditary Sideroblastic Anemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84919|http://www.orpha.net/ORDO/Orphanet_223|C0162283|Nephrogenic Diabetes Insipidus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3403|http://www.orpha.net/ORDO/Orphanet_883|C0039538|Teratoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84827|http://www.orpha.net/ORDO/Orphanet_526|C0221043|Liddle Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3822|http://www.orpha.net/ORDO/Orphanet_47|C0221026|X-Linked Agammaglobulinemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3821|http://www.orpha.net/ORDO/Orphanet_2330|C0221025|Kasabach-Merritt Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3820|http://www.orpha.net/ORDO/Orphanet_2686|C0221023|Cyclic Neutropenia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128802|http://www.orpha.net/ORDO/Orphanet_37|C0221036|Acrodermatitis Enteropathica
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35065|http://www.orpha.net/ORDO/Orphanet_397|C0039483|Giant Cell Arteritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35064|http://www.orpha.net/ORDO/Orphanet_774|C0039445|Hereditary Hemorrhagic Telangiectasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3840|http://www.orpha.net/ORDO/Orphanet_624|C0235752|Port Wine Stain
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3844|http://www.orpha.net/ORDO/Orphanet_56044|C0235782|Gallbladder Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120188|http://www.orpha.net/ORDO/Orphanet_2856|C1849930|Persistent Mullerian Duct Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71050|http://www.orpha.net/ORDO/Orphanet_3282|C0221158|Multifocal Atrial Tachycardia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61252|http://www.orpha.net/ORDO/Orphanet_43|C0162309|Adrenoleukodystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4681|http://www.orpha.net/ORDO/Orphanet_3103|C0392475|Roberts-SC Phocomelia Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85184|http://www.orpha.net/ORDO/Orphanet_309152|C0039373|Tay-Sachs Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3828|http://www.orpha.net/ORDO/Orphanet_424936|C0221287|Combined Hepatocellular Carcinoma and Cholangiocarcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3830|http://www.orpha.net/ORDO/Orphanet_404507|C0221290|Chondromyxoid Fibroma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9343|http://www.orpha.net/ORDO/Orphanet_68411|C0005967|Bone Neoplasms
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2904|http://www.orpha.net/ORDO/Orphanet_83468|C0005937|Bone Cyst
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4683|http://www.orpha.net/ORDO/Orphanet_31112|C0392784|Dermatofibrosarcoma Protuberans
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4684|http://www.orpha.net/ORDO/Orphanet_86879|C0392788|Nasal Type Extranodal NK/T-Cell Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98893|http://www.orpha.net/ORDO/Orphanet_2140|C0235833|Congenital Diaphragmatic Hernia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84619|http://www.orpha.net/ORDO/Orphanet_53035|C0162510|Caroli Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85182|http://www.orpha.net/ORDO/Orphanet_31150|C0039292|Tangier Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35062|http://www.orpha.net/ORDO/Orphanet_3287|C0039263|Takayasu Arteritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111646|http://www.orpha.net/ORDO/Orphanet_3283|C0039235|Junctional Ectopic Tachycardia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35268|http://www.orpha.net/ORDO/Orphanet_2477|C0221355|Macrocephaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2903|http://www.orpha.net/ORDO/Orphanet_125|C0005859|Bloom Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34910|http://www.orpha.net/ORDO/Orphanet_704|C0030809|Pemphigus Vulgaris
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84389|http://www.orpha.net/ORDO/Orphanet_703|C0030805|Bullous Pemphigoid
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34907|http://www.orpha.net/ORDO/Orphanet_46486|C0030804|Benign Mucous Membrane Pemphigoid
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128394|http://www.orpha.net/ORDO/Orphanet_74|C0392662|Angiostrongyliasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84754|http://www.orpha.net/ORDO/Orphanet_95159|C0162569|Hepatoerythropoietic Porphyria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84698|http://www.orpha.net/ORDO/Orphanet_79278|C0162568|Erythropoietic Protoporphyria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27725|http://www.orpha.net/ORDO/Orphanet_101330|C0162566|Porphyria Cutanea Tarda
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84536|http://www.orpha.net/ORDO/Orphanet_79276|C0162565|Porphyria, Acute Intermittent
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128393|http://www.orpha.net/ORDO/Orphanet_1070|C0162576|Anisakiasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84396|http://www.orpha.net/ORDO/Orphanet_90062|C0162557|Acute Liver Failure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3850|http://www.orpha.net/ORDO/Orphanet_217074|C0235974|Pancreatic Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128346|http://www.orpha.net/ORDO/Orphanet_56970|C0162534|Prion Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85219|http://www.orpha.net/ORDO/Orphanet_79473|C0162532|Variegate Porphyria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84759|http://www.orpha.net/ORDO/Orphanet_79273|C0162531|Hereditary Coproporphyria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34700|http://www.orpha.net/ORDO/Orphanet_388|C0019569|Hirschsprung Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3105|http://www.orpha.net/ORDO/Orphanet_892|C0019562|Von Hippel-Lindau Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123217|http://www.orpha.net/ORDO/Orphanet_18|C1704380|Distal Renal Tubular Acidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131449|http://www.orpha.net/ORDO/Orphanet_437|C1704375|Hypophosphatemic Rickets
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3301|http://www.orpha.net/ORDO/Orphanet_180275|C1704323|Paget's Disease of the Nipple
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9312|http://www.orpha.net/ORDO/Orphanet_223727|C1704327|Bone Sarcoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84906|http://www.orpha.net/ORDO/Orphanet_2576|C0524582|Mulibrey Nanism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27814|http://www.orpha.net/ORDO/Orphanet_70567|C0740277|Bile Duct Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28450|http://www.orpha.net/ORDO/Orphanet_3305|C0333694|Tetraploidy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85204|http://www.orpha.net/ORDO/Orphanet_3376|C0333693|Triploidy Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85003|http://www.orpha.net/ORDO/Orphanet_63275|C0019343|Pemphigoid Gestationis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75012|http://www.orpha.net/ORDO/Orphanet_217|C0010964|Dandy-Walker Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84758|http://www.orpha.net/ORDO/Orphanet_91378|C0019243|Hereditary Angioedema
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84756|http://www.orpha.net/ORDO/Orphanet_905|C0019202|Hepatolenticular Degeneration
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118636|http://www.orpha.net/ORDO/Orphanet_2833|C1861456|Stiff Skin Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84992|http://www.orpha.net/ORDO/Orphanet_678|C0030360|Papillon-Lefevre Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84989|http://www.orpha.net/ORDO/Orphanet_280898|C0030343|Panuveitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4705|http://www.orpha.net/ORDO/Orphanet_1359|C0406810|Carney Complex
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4172|http://www.orpha.net/ORDO/Orphanet_840|C0406803|Syringocystadenoma Papilliferum
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34702|http://www.orpha.net/ORDO/Orphanet_78|C0019911|Hookworm Infection
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3305|http://www.orpha.net/ORDO/Orphanet_180824|C0030297|Pancreatic Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34375|http://www.orpha.net/ORDO/Orphanet_848|C0005283|Beta Thalassemia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84580|http://www.orpha.net/ORDO/Orphanet_238468|C0406702|Autosomal Recessive Hypohidrotic Ectodermal Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9357|http://www.orpha.net/ORDO/Orphanet_98293|C0019829|Hodgkin's Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4701|http://www.orpha.net/ORDO/Orphanet_2396|C0406612|Encephalocraniocutaneous Lipomatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117112|http://www.orpha.net/ORDO/Orphanet_90283|C0406636|Lupus Erythematosus Tumidus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123018|http://www.orpha.net/ORDO/Orphanet_93111|C0431693|Renal Cysts and Diabetes Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101313|http://www.orpha.net/ORDO/Orphanet_93173|C0431698|Bilateral Renal Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3302|http://www.orpha.net/ORDO/Orphanet_2800|C0030186|Paget Disease Extramammary
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47857|http://www.orpha.net/ORDO/Orphanet_180275|C0030185|Mammary Paget's Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84595|http://www.orpha.net/ORDO/Orphanet_274|C0005129|Bernard-Soulier Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77201|http://www.orpha.net/ORDO/Orphanet_390|C0019655|Histoplasmosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3107|http://www.orpha.net/ORDO/Orphanet_389|C0019621|Langerhans Cell Histiocytosis, NOS
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34518|http://www.orpha.net/ORDO/Orphanet_281|C0010314|Cri du Chat Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84640|http://www.orpha.net/ORDO/Orphanet_102009|C0431375|Classical Lissencephaly
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26734|http://www.orpha.net/ORDO/Orphanet_442|C0010308|Congenital Hypothyroidism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42088|http://www.orpha.net/ORDO/Orphanet_268950|C0431380|Cortical Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7489|http://www.orpha.net/ORDO/Orphanet_424013|C0563211|Anal Canal Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3218|http://www.orpha.net/ORDO/Orphanet_79456|C0024901|Diffuse Cutaneous Mastocytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2964|http://www.orpha.net/ORDO/Orphanet_54595|C0010276|Craniopharyngioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84655|http://www.orpha.net/ORDO/Orphanet_1531|C0010278|Craniosynostosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84269|http://www.orpha.net/ORDO/Orphanet_98292|C0024899|Mastocytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8591|http://www.orpha.net/ORDO/Orphanet_363504|C1336708|Testicular Germ Cell Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61233|http://www.orpha.net/ORDO/Orphanet_447|C0024790|Paroxysmal Nocturnal Hemoglobinuria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34807|http://www.orpha.net/ORDO/Orphanet_558|C0024796|Marfan Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34806|http://www.orpha.net/ORDO/Orphanet_511|C0024776|Maple Syrup Urine Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84883|http://www.orpha.net/ORDO/Orphanet_99826|C0024788|Marburg Virus Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84882|http://www.orpha.net/ORDO/Orphanet_2459|C0024759|Mansonelliasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84548|http://www.orpha.net/ORDO/Orphanet_61|C0024748|Alpha-Mannosidosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7611|http://www.orpha.net/ORDO/Orphanet_46135|C0240803|Primary Cerebral Lymphoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34512|http://www.orpha.net/ORDO/Orphanet_34533|C0010035|Hereditary Corneal Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34513|http://www.orpha.net/ORDO/Orphanet_34533|C0010036|Corneal Dystrophy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C6814|http://www.orpha.net/ORDO/Orphanet_199257|C0406571|Superficial Fibromatosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121565|http://www.orpha.net/ORDO/Orphanet_3455|C0406586|Wiedemann-Rautenstrauch Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9331|http://www.orpha.net/ORDO/Orphanet_63443|C0024623|Malignant Neoplasm of Stomach
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797|http://www.orpha.net/ORDO/Orphanet_673|C0024530|Malaria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26793|http://www.orpha.net/ORDO/Orphanet_890|C0019156|Hepatic Veno-Occlusive Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36170|http://www.orpha.net/ORDO/Orphanet_341|C0019104|Viral Hemorrhagic Fever
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84753|http://www.orpha.net/ORDO/Orphanet_340|C0019101|Hemorrhagic Fever with Renal Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2977|http://www.orpha.net/ORDO/Orphanet_180261|C0010701|Phyllodes Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27146|http://www.orpha.net/ORDO/Orphanet_98878|C0019069|Hemophilia A
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3092|http://www.orpha.net/ORDO/Orphanet_68364|C0019045|Hemoglobinopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84664|http://www.orpha.net/ORDO/Orphanet_214|C0010691|Cystinuria
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34675|http://www.orpha.net/ORDO/Orphanet_2132|C0019021|Hemoglobin C Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34676|http://www.orpha.net/ORDO/Orphanet_251365|C0019034|Hemoglobin SC Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133727|http://www.orpha.net/ORDO/Orphanet_2323|C1855840|Hypoparathyroidism-Retardation-Dysmorphism Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2975|http://www.orpha.net/ORDO/Orphanet_586|C0010674|Cystic Fibrosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34520|http://www.orpha.net/ORDO/Orphanet_1560|C0010678|Cysticercosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98892|http://www.orpha.net/ORDO/Orphanet_2444|C0010668|Congenital Cystic Adenomatoid Malformation of the Lung
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35073|http://www.orpha.net/ORDO/Orphanet_397587|C1395264|Deep Seated Dermatophytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4717|http://www.orpha.net/ORDO/Orphanet_251957|C0431112|Anaplastic Ganglioglioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C129324|http://www.orpha.net/ORDO/Orphanet_251663|C0431108|Anaplastic Oligoastrocytoma, NOS
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4715|http://www.orpha.net/ORDO/Orphanet_251899|C0431109|Choroid Plexus Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84663|http://www.orpha.net/ORDO/Orphanet_209|C0010495|Cutis Laxa
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7612|http://www.orpha.net/ORDO/Orphanet_99868|C1322286|Malignant Thymoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2969|http://www.orpha.net/ORDO/Orphanet_96253|C0010481|Cushing Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128408|http://www.orpha.net/ORDO/Orphanet_1549|C0010418|Cryptosporidiosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122805|http://www.orpha.net/ORDO/Orphanet_347|C0950122|Frasier Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84668|http://www.orpha.net/ORDO/Orphanet_220|C0950121|Denys-Drash Syndrome

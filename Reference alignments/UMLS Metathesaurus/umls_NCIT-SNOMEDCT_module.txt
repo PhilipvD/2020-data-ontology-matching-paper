@@ -1,0 +1,127 @@
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26831|http://snomed.info/id/88415009|C0026918|Mycobacterium Infection
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7342|http://snomed.info/id/254649008|C0345976|Epithelial Skin Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2849|http://snomed.info/id/276654001|C0000768|Congenital Abnormality
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12392|http://snomed.info/id/10200004|C0023884|Liver
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3196|http://snomed.info/id/235856003|C0023895|Liver Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3052|http://snomed.info/id/126768004|C0017185|Gastrointestinal Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3423|http://snomed.info/id/56717001|C0041296|Tuberculosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26912|http://snomed.info/id/31996006|C0042384|Vasculitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3338|http://snomed.info/id/72991005|C0032578|Polyploidy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25709|http://snomed.info/id/767524001|C1519795|Unit of Measure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12374|http://snomed.info/id/21793004|C0009780|Connective Tissue
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26729|http://snomed.info/id/105969002|C0009782|Connective Tissue Diseases
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34632|http://snomed.info/id/25374005|C0017160|Gastroenteritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25700|http://snomed.info/id/246333005|C0449913|System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28226|http://snomed.info/id/12893009|C0205460|Biological
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2920|http://snomed.info/id/372130007|C0007114|Malignant Neoplasm of Skin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35503|http://snomed.info/id/312158001|C0729555|Digestive System Infection
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16977|http://snomed.info/id/8116006|C0031437|Phenotype
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36281|http://snomed.info/id/106077005|C1291044|Integumentary System Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84767|http://snomed.info/id/276508000|C0020305|Hydrops Fetalis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C156660|http://snomed.info/id/42030000|C0080276|Genitourinary System Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3708|http://snomed.info/id/402878003|C0205851|Germ Cell Tumor
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3077|http://snomed.info/id/255055008|C0018671|Head and Neck Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12419|http://snomed.info/id/69536005|C0018670|Head
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84776|http://snomed.info/id/782957005|C0020757|Ichthyosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34830|http://snomed.info/id/85898001|C0878544|Cardiomyopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26767|http://snomed.info/id/371405004|C0015397|Eye Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12401|http://snomed.info/id/81745001|C0015392|Eye
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2978|http://snomed.info/id/367643001|C0010709|Cyst
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48187|http://snomed.info/id/260769002|C0520510|Material
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12735|http://snomed.info/id/116003000|C0020962|Immune System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C156420|http://snomed.info/id/423493009|C1828181|Age at Diagnosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4086|http://snomed.info/id/25723000|C0334044|Dysplasia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3516|http://snomed.info/id/203468000|C0152244|Aneurysmal Bone Cyst
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35338|http://snomed.info/id/16934004|C0268790|Renal Vascular Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9293|http://snomed.info/id/126951006|C0085136|Neoplasm of Central Nervous System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26835|http://snomed.info/id/118940003|C0027765|Nervous System Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3268|http://snomed.info/id/126950007|C0027766|Nervous System Neoplasms
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85188|http://snomed.info/id/128210009|C0039984|Thoracic Outlet Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9343|http://snomed.info/id/115239009|C0005967|Bone Neoplasms
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3677|http://snomed.info/id/20376005|C0086692|Benign Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12919|http://snomed.info/id/91689009|C0460002|Body Systems
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35742|http://snomed.info/id/118946009|C0039978|Thoracic Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9305|http://snomed.info/id/363346000|C0006826|Malignant Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27998|http://snomed.info/id/255404009|C0439660|Hereditary
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49236|http://snomed.info/id/277132007|C0087111|Therapeutic Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12378|http://snomed.info/id/86762007|C0012240|Gastrointestinal System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94372|http://snomed.info/id/246199000|C0011155|Deficiency
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93210|http://snomed.info/id/128139000|C1290884|Inflammatory Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7541|http://snomed.info/id/19906005|C0035335|Retinoblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890|http://snomed.info/id/87628006|C0004623|Bacterial Infection
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3709|http://snomed.info/id/118285006|C1368683|Epithelioma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50754|http://snomed.info/id/415582006|C1261287|Stenosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150|http://snomed.info/id/397669002|C0001779|Age
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2916|http://snomed.info/id/68453008|C0007097|Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21198|http://snomed.info/id/47722004|C0025519|Metabolism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26875|http://snomed.info/id/29555009|C0035309|Retinal Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4013|http://snomed.info/id/255056009|C0278996|Malignant Head and Neck Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12810|http://snomed.info/id/21514008|C0042066|Genitourinary System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70810|http://snomed.info/id/399753006|C1148348|Date of Death
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12710|http://snomed.info/id/31610004|C0014609|Epithelium
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338|http://snomed.info/id/246262008|C0449820|Score
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2991|http://snomed.info/id/64572001|C0012634|Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3216|http://snomed.info/id/363465007|C0024622|Malignant Neoplasm of Retina
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50750|http://snomed.info/id/90584004|C0037929|Spinal Cord Injury
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12464|http://snomed.info/id/2748008|C0037925|Spinal Cord
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4767|http://snomed.info/id/363461003|C0496836|Malignant Tumor of Eye
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3101|http://snomed.info/id/32895009|C0019247|Hereditary Diseases
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84758|http://snomed.info/id/82966003|C0019243|Hereditary Angioedema
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3149|http://snomed.info/id/90708001|C0022658|Kidney Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12393|http://snomed.info/id/15776009|C0030274|Pancreas
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3150|http://snomed.info/id/126880001|C0022665|Kidney Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28193|http://snomed.info/id/64572001|C0039082|Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18264|http://snomed.info/id/303109001|C0699748|Pathogenesis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3063|http://snomed.info/id/234646005|C0018133|Graft Vs. Host Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39723|http://snomed.info/id/106182000|C1291764|Immune System Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82599|http://snomed.info/id/59888006|C0007258|Carnitine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25294|http://snomed.info/id/15220000|C0022885|Laboratory Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12415|http://snomed.info/id/64033007|C0022646|Kidney
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2931|http://snomed.info/id/49601007|C0007222|Cardiovascular Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12686|http://snomed.info/id/113257007|C0007226|Cardiovascular System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13310|http://snomed.info/id/31099001|C0205373|Systemic
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33966|http://snomed.info/id/119234009|C1268141|Central Nervous System Part
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25688|http://snomed.info/id/263490005|C0449438|Status
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45233|http://snomed.info/id/106048009|C0425442|Respiratory System Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3079|http://snomed.info/id/56265001|C0018799|Heart Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7548|http://snomed.info/id/363518003|C0740457|Malignant Neoplasm of Kidney
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32039|http://snomed.info/id/310833002|C0588412|Abdominal Aorta Branch
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3824|http://snomed.info/id/52988006|C0221198|Lesion
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12597|http://snomed.info/id/787781003|C0017471|Germ Cells
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13023|http://snomed.info/id/119202000|C1268110|Heart Part
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12471|http://snomed.info/id/87784001|C0225317|Soft Tissue
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12438|http://snomed.info/id/21483005|C3714787|Central Nervous System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16956|http://snomed.info/id/308489006|C0030660|Pathologic Process
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32221|http://snomed.info/id/38866009|C0229962|Body Part
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220|http://snomed.info/id/439401001|C0011900|Diagnosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3372|http://snomed.info/id/126488004|C0037286|Skin Neoplasms
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12727|http://snomed.info/id/80891009|C0018787|Heart
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13019|http://snomed.info/id/119263007|C1268161|Eye Part
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12413|http://snomed.info/id/122489005|C1508753|Urinary System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12907|http://snomed.info/id/48075008|C0037267|Integumentary System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508|http://snomed.info/id/4421005|C0007634|Cells
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12788|http://snomed.info/id/113192009|C0037253|Skeletal System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12680|http://snomed.info/id/52530000|C0005898|Body Region
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13377|http://snomed.info/id/312237004|C0729606|Chromosome Structure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13282|http://snomed.info/id/67185001|C0729605|Subcellular Structure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4800|http://snomed.info/id/127002001|C0524801|Retinal Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21007|http://snomed.info/id/21134002|C0231170|Disability
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12343|http://snomed.info/id/5665001|C0035298|Retina
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13071|http://snomed.info/id/89545001|C0015450|Face
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87069|http://snomed.info/id/87979003|C0008925|Cleft Palate
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43431|http://snomed.info/id/257733005|C0441655|Activity
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35330|http://snomed.info/id/359804008|C1262481|Eosinophilic Gastroenteritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12679|http://snomed.info/id/59820001|C0005847|Blood Vessel
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25161|http://snomed.info/id/278201002|C0008902|Classification
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3262|http://snomed.info/id/108369006|C0027651|Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4627|http://snomed.info/id/372062007|C0348374|Malignant Central Nervous System Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3030|http://snomed.info/id/371486001|C0015414|Eye Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12779|http://snomed.info/id/20139000|C0035237|Respiratory System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89345|http://snomed.info/id/68433009|C0231335|Childhood
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26832|http://snomed.info/id/41370002|C0026975|Myelitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4016|http://snomed.info/id/428281000|C0279530|Malignant Bone Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25499|http://snomed.info/id/272379006|C0441471|Event
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4599|http://snomed.info/id/92261004|C0347203|Benign Neoplasm of Palate
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2855|http://snomed.info/id/32048006|C0001430|Adenoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112175|http://snomed.info/id/41291007|C0002994|Angioedema
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12372|http://snomed.info/id/51114001|C0003842|Artery

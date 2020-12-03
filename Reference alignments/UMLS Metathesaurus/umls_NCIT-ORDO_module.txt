@@ -1,0 +1,27 @@
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4913|http://www.orpha.net/ORDO/Orphanet_98063|C0699889|Malignant Female Reproductive System Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3052|http://www.orpha.net/ORDO/Orphanet_98059|C0017185|Gastrointestinal Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3423|http://www.orpha.net/ORDO/Orphanet_3389|C0041296|Tuberculosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26912|http://www.orpha.net/ORDO/Orphanet_52759|C0042384|Vasculitis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3338|http://www.orpha.net/ORDO/Orphanet_96321|C0032578|Polyploidy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9295|http://www.orpha.net/ORDO/Orphanet_98292|C0334664|Mast Cell Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84767|http://www.orpha.net/ORDO/Orphanet_1041|C0020305|Hydrops Fetalis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84776|http://www.orpha.net/ORDO/Orphanet_79354|C0020757|Ichthyosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34830|http://www.orpha.net/ORDO/Orphanet_167848|C0878544|Cardiomyopathy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3917|http://www.orpha.net/ORDO/Orphanet_180247|C0262659|Vagina Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2950|http://www.orpha.net/ORDO/Orphanet_68335|C0008625|Chromosome Aberration
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34825|http://www.orpha.net/ORDO/Orphanet_2331|C0026691|Mucocutaneous Lymph Node Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85188|http://www.orpha.net/ORDO/Orphanet_97330|C0039984|Thoracic Outlet Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9343|http://www.orpha.net/ORDO/Orphanet_68411|C0005967|Bone Neoplasms
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7541|http://www.orpha.net/ORDO/Orphanet_790|C0035335|Retinoblastoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890|http://www.orpha.net/ORDO/Orphanet_163582|C0004623|Bacterial Infection
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34816|http://www.orpha.net/ORDO/Orphanet_68367|C0025521|Inborn Errors of Metabolism
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84269|http://www.orpha.net/ORDO/Orphanet_98292|C0024899|Mastocytosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3235|http://www.orpha.net/ORDO/Orphanet_68367|C0025517|Metabolic Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50750|http://www.orpha.net/ORDO/Orphanet_90058|C0037929|Spinal Cord Injury
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84758|http://www.orpha.net/ORDO/Orphanet_91378|C0019243|Hereditary Angioedema
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3063|http://www.orpha.net/ORDO/Orphanet_39812|C0018133|Graft Vs. Host Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34854|http://www.orpha.net/ORDO/Orphanet_648|C0028326|Noonan Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123031|http://www.orpha.net/ORDO/Orphanet_1851|C3714581|Multicystic Dysplastic Kidney
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87069|http://www.orpha.net/ORDO/Orphanet_2014|C0008925|Cleft Palate
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35330|http://www.orpha.net/ORDO/Orphanet_2070|C1262481|Eosinophilic Gastroenteritis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3030|http://www.orpha.net/ORDO/Orphanet_101950|C0015414|Eye Neoplasm

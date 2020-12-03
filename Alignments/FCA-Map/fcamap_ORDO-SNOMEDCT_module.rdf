@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='FCA-Map'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<onto1>http://www.orpha.net/ORDO/Orphanet_module</onto1>
+	<onto2>http://snomed.info/sct/900000000000207008module</onto2>
+	<uri1>http://www.orpha.net/ORDO/Orphanet_module</uri1>
+	<uri2>http://snomed.info/sct/900000000000207008module</uri2>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2771"/>
+    <entity2 rdf:resource="http://snomed.info/id/254113006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_91378"/>
+    <entity2 rdf:resource="http://snomed.info/id/82966003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_521132"/>
+    <entity2 rdf:resource="http://snomed.info/id/85983004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_99739"/>
+    <entity2 rdf:resource="http://snomed.info/id/35728003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_409943"/>
+    <entity2 rdf:resource="http://snomed.info/id/263675000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2070"/>
+    <entity2 rdf:resource="http://snomed.info/id/359804008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_480553"/>
+    <entity2 rdf:resource="http://snomed.info/id/76000001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_79354"/>
+    <entity2 rdf:resource="http://snomed.info/id/782957005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_828"/>
+    <entity2 rdf:resource="http://snomed.info/id/78675000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_97598"/>
+    <entity2 rdf:resource="http://snomed.info/id/271432005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_52759"/>
+    <entity2 rdf:resource="http://snomed.info/id/31996006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_377788"/>
+    <entity2 rdf:resource="http://snomed.info/id/64572001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_108999"/>
+    <entity2 rdf:resource="http://snomed.info/id/771250005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1851"/>
+    <entity2 rdf:resource="http://snomed.info/id/204949001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_101433"/>
+    <entity2 rdf:resource="http://snomed.info/id/42030000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2014"/>
+    <entity2 rdf:resource="http://snomed.info/id/87979003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_790"/>
+    <entity2 rdf:resource="http://snomed.info/id/370967009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1041"/>
+    <entity2 rdf:resource="http://snomed.info/id/276508000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_39812"/>
+    <entity2 rdf:resource="http://snomed.info/id/234646005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3399"/>
+    <entity2 rdf:resource="http://snomed.info/id/402878003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_97966"/>
+    <entity2 rdf:resource="http://snomed.info/id/128295000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_206953"/>
+    <entity2 rdf:resource="http://snomed.info/id/64077000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_790"/>
+    <entity2 rdf:resource="http://snomed.info/id/19906005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_377794"/>
+    <entity2 rdf:resource="http://snomed.info/id/278712003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_877"/>
+    <entity2 rdf:resource="http://snomed.info/id/128928004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_97330"/>
+    <entity2 rdf:resource="http://snomed.info/id/128210009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_480553"/>
+    <entity2 rdf:resource="http://snomed.info/id/203468000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_182130"/>
+    <entity2 rdf:resource="http://snomed.info/id/387927001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_377791"/>
+    <entity2 rdf:resource="http://snomed.info/id/21390004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93292"/>
+    <entity2 rdf:resource="http://snomed.info/id/208061000119101"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_536391"/>
+    <entity2 rdf:resource="http://snomed.info/id/302233006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98638"/>
+    <entity2 rdf:resource="http://snomed.info/id/128071005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_409973"/>
+    <entity2 rdf:resource="http://snomed.info/id/398241000"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_309130"/>
+    <entity2 rdf:resource="http://snomed.info/id/421784001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_409946"/>
+    <entity2 rdf:resource="http://snomed.info/id/255398004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_409946"/>
+    <entity2 rdf:resource="http://snomed.info/id/68433009"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_96321"/>
+    <entity2 rdf:resource="http://snomed.info/id/48099008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3389"/>
+    <entity2 rdf:resource="http://snomed.info/id/56717001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_90021"/>
+    <entity2 rdf:resource="http://snomed.info/id/763869003"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_96321"/>
+    <entity2 rdf:resource="http://snomed.info/id/72991005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_90058"/>
+    <entity2 rdf:resource="http://snomed.info/id/90584004"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_C001"/>
+    <entity2 rdf:resource="http://snomed.info/id/278844005"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_173"/>
+    <entity2 rdf:resource="http://snomed.info/id/63650001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_409950"/>
+    <entity2 rdf:resource="http://snomed.info/id/11527006"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_93547"/>
+    <entity2 rdf:resource="http://snomed.info/id/204949001"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+<map>
+  <Cell>
+    <entity1 rdf:resource="http://www.orpha.net/ORDO/Orphanet_922"/>
+    <entity2 rdf:resource="http://snomed.info/id/763532008"/>
+    <relation>=</relation>
+    <measure rdf:datatype="xsd:float">1.0</measure>
+  </Cell>
+</map>
+
+</Alignment>
+</rdf:RDF>

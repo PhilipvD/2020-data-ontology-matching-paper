@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owlmodule</onto1>
+	<onto2>http://www.orpha.net/ORDO/Orphanet_module</onto2>
+	<uri1>http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owlmodule</uri1>
+	<uri2>http://www.orpha.net/ORDO/Orphanet_module</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3423"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3389"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.94</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3338"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_96321"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.94</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84776"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_79354"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.94</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27555"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_79353"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.94</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3516"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_480553"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.938</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87069"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2014"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9299</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49152"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_409973"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9277</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28020"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_409970"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9277</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50750"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_90058"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9268</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4974"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_377793"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9268</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89345"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_409946"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9259</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84758"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_91378"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26912"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_52759"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7541"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_790"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35330"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2070"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84767"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1041"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157812"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_173"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74984"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_828"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84269"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98292"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85188"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_97330"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34854"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_648"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123031"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_1851"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34825"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_2331"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34750"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_377791"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9295"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_68347"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.893</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3809"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_877"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3917"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_180247"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17010"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_C004"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3063"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_39812"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3708"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_3399"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.8836</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112175"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_658"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.783</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98864"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_158"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.756</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26875"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_519315"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7404</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3010"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_182130"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7069</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34830"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_167848"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6635</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3836"/>
+			<entity2 rdf:resource="http://www.orpha.net/ORDO/Orphanet_98047"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.647</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

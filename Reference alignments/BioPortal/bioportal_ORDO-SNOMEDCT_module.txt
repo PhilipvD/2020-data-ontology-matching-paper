@@ -1,0 +1,7 @@
+http://www.orpha.net/ORDO/Orphanet_97598|http://purl.bioontology.org/ontology/SNOMEDCT/271432005|LOOM
+http://www.orpha.net/ORDO/Orphanet_480553|http://purl.bioontology.org/ontology/SNOMEDCT/203468000|LOOM
+http://www.orpha.net/ORDO/Orphanet_93292|http://purl.bioontology.org/ontology/SNOMEDCT/208061000119101|LOOM
+http://www.orpha.net/ORDO/Orphanet_3399|http://purl.bioontology.org/ontology/SNOMEDCT/402878003|LOOM
+http://www.orpha.net/ORDO/Orphanet_97330|http://purl.bioontology.org/ontology/SNOMEDCT/128210009|LOOM
+http://www.orpha.net/ORDO/Orphanet_828|http://purl.bioontology.org/ontology/SNOMEDCT/78675000|LOOM
+http://www.orpha.net/ORDO/Orphanet_96321|http://purl.bioontology.org/ontology/SNOMEDCT/48099008|LOOM

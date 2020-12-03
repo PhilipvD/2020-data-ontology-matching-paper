@@ -1,0 +1,35 @@
+http://www.orpha.net/ORDO/Orphanet_97598|http://snomed.info/id/271432005|C0495523|Congenital renal artery stenosis
+http://www.orpha.net/ORDO/Orphanet_877|http://snomed.info/id/387927001|C0014132|Endocrine Gland Neoplasms
+http://www.orpha.net/ORDO/Orphanet_39812|http://snomed.info/id/234646005|C0018133|Graft-vs-Host Disease
+http://www.orpha.net/ORDO/Orphanet_2070|http://snomed.info/id/359804008|C1262481|Eosinophilic gastroenteritis
+http://www.orpha.net/ORDO/Orphanet_828|http://snomed.info/id/78675000|C0265253|Stickler syndrome (disorder)
+http://www.orpha.net/ORDO/Orphanet_98059|http://snomed.info/id/428905002|C0685938|Malignant neoplasm of gastrointestinal tract
+http://www.orpha.net/ORDO/Orphanet_97330|http://snomed.info/id/128210009|C0039984|Thoracic Outlet Syndrome
+http://www.orpha.net/ORDO/Orphanet_98059|http://snomed.info/id/128415001|C0012243|Digestive System Neoplasms
+http://www.orpha.net/ORDO/Orphanet_167848|http://snomed.info/id/85898001|C0878544|Cardiomyopathies
+http://www.orpha.net/ORDO/Orphanet_877|http://snomed.info/id/128928004|C0206754|Neuroendocrine Tumors
+http://www.orpha.net/ORDO/Orphanet_2070|http://snomed.info/id/733156007|C2062326|Eosinophilic enteropathy
+http://www.orpha.net/ORDO/Orphanet_180824|http://snomed.info/id/126859007|C0030297|Pancreatic Neoplasm
+http://www.orpha.net/ORDO/Orphanet_117569|http://snomed.info/id/85919009|C0021831|Intestinal Diseases
+http://www.orpha.net/ORDO/Orphanet_68411|http://snomed.info/id/115239009|C0005967|Bone neoplasms
+http://www.orpha.net/ORDO/Orphanet_1041|http://snomed.info/id/276508000|C0020305|Hydrops Fetalis
+http://www.orpha.net/ORDO/Orphanet_68335|http://snomed.info/id/74345006|C0008626|Congenital chromosomal disease
+http://www.orpha.net/ORDO/Orphanet_90058|http://snomed.info/id/90584004|C0037929|Spinal Cord Injuries
+http://www.orpha.net/ORDO/Orphanet_2771|http://snomed.info/id/254113006|C0432253|Bruck syndrome
+http://www.orpha.net/ORDO/Orphanet_211243|http://snomed.info/id/400159008|C1961121|Congenital vascular anomaly
+http://www.orpha.net/ORDO/Orphanet_68346|http://snomed.info/id/199879009|C0037277|Skin Diseases, Genetic
+http://www.orpha.net/ORDO/Orphanet_88991|http://snomed.info/id/13213009|C0018798|Congenital Heart Defects
+http://www.orpha.net/ORDO/Orphanet_790|http://snomed.info/id/19906005|C0035335|Retinoblastoma
+http://www.orpha.net/ORDO/Orphanet_173|http://snomed.info/id/63650001|C0008354|Cholera
+http://www.orpha.net/ORDO/Orphanet_101937|http://snomed.info/id/3855007|C0030286|Pancreatic Diseases
+http://www.orpha.net/ORDO/Orphanet_91378|http://snomed.info/id/82966003|C0019243|Angioedemas, Hereditary
+http://www.orpha.net/ORDO/Orphanet_98059|http://snomed.info/id/126768004|C0017185|Gastrointestinal Neoplasms
+http://www.orpha.net/ORDO/Orphanet_79354|http://snomed.info/id/782957005|C0020757|Ichthyoses
+http://www.orpha.net/ORDO/Orphanet_163582|http://snomed.info/id/87628006|C0004623|Bacterial Infections
+http://www.orpha.net/ORDO/Orphanet_3389|http://snomed.info/id/56717001|C0041296|Tuberculosis
+http://www.orpha.net/ORDO/Orphanet_52759|http://snomed.info/id/31996006|C0042384|Vasculitis
+http://www.orpha.net/ORDO/Orphanet_101950|http://snomed.info/id/371486001|C0015414|Eye Neoplasms
+http://www.orpha.net/ORDO/Orphanet_2014|http://snomed.info/id/87979003|C0008925|Cleft Palate
+http://www.orpha.net/ORDO/Orphanet_139012|http://snomed.info/id/371521007|C0005941|Bone Diseases, Developmental
+http://www.orpha.net/ORDO/Orphanet_68362|http://snomed.info/id/27550009|C0042373|Vascular Diseases
+http://www.orpha.net/ORDO/Orphanet_96321|http://snomed.info/id/72991005|C0032578|Polyploidy
