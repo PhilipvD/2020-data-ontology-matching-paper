@@ -1,2 +1,2 @@
-# 2020-jbiomedsem-ontology-matching-paper
-Ontology matching for FAIR data, an experimental study on the performance of state-of-the-art ontology matching systems in practice
+# 2021-jbiomedsem-ontology-matching-paper
+Performance assessment of ontology matching systems for FAIR data
